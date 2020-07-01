@@ -1,4 +1,4 @@
-#### 30.06.2020  
+## 30.06.2020  
 **What did I do today?**  
 I fixed my GitHub error from yesterday.  
 I found, installed and configurated a tool that was new to me.  
