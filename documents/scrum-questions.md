@@ -21,9 +21,30 @@ I also started to read into the OpenHERE Maps API and got the API keys.
 I will finish my application mail and send it to Pete.  
 I will try to work more on the documentation.  
 I will try to implement the map component.
+  
+**What hinders my progress?**  
+The OpenHERE Maps API was written for javascript and not for typescript.  
+The documentation for the API is on an older version, which does make a huge difference.  
+It's hard to concentrate with this weather going on.  
+It's also rather hard to stay focused, whenever there is an error that doesn't want to go away for hours.  
+  
+  
+## 02.07.2020  
+**What did I do today?**  
+I have finished writing my application mail for Rafisa AG.  
+> It went rather well and I did not have to spend too much time on it.  
+I have read the documentation for OpenHERE Maps API and I fiddled around with it in an example project.  
+> This did not go so well, because javascript did not recognize the MIME type the API was sending, since it's a padded JSON and not a normal one.  
+> I also got a version mismatch error, since the tutorial I followed was obsolete.  
+> I fixed the error after a bit of trial and error, until I got another error.  
+  
+**What will I do tomorrow?**  
+I will work on the documentation the whole morning and I'll try to check off some tasks on the scrum board relating to the documentation.  
+On the afternoon I'll try to find a fix or a workaround for the current error I'm having.  
+  
+**What hinders my progress?**  
+I have got another error in my program.  
+This time the error is an InvalidArgumentError caused by the HERE Platform Data Extension API in the service namespace.  
+Apparently I have not given the correct arguments in the correct order or the correct count.  
+I will continue to read the documentation on Fleet Telematics Advanced Data Sets that the API is using.  
 
-**What hinders my progress?**
-The OpenHERE Maps API was written for javascript and not for typescript.
-The documentation for the API is on an older version, which does make a huge difference.
-It's hard to concentrate with this weather going on.
-It's also rather hard to stay focused, whenever there is an error that doesn't want to go away for hours.
