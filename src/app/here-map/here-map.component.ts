@@ -1,24 +1,27 @@
-import { Component, OnInit, ViewChild, ElementRef } from '@angular/core';
+import { Component, OnInit, ViewChild, ElementRef, Input } from '@angular/core';
 
 declare var H: any;
 
 @Component({
   selector: 'here-map',
-  templateUrl: './map.component.html',
-  styleUrls: ['./map.component.scss'],
+  templateUrl: 'here-map.component.html'
 })
-export class MapComponent implements OnInit {
+export class HereMapComponent implements OnInit {
 
   @ViewChild("map")
   public mapElement: ElementRef;
 
-  public appId: string = "tj6HN2yVKnspSKiI2ozO";
+  @Input()
+  public appId: any;
 
-  public apikey: string = "wMf9ma7exbMTZgkYuj1alATsY2ae9fYC5dq9S2JeM04";
+  @Input()
+  public appCode: any;
 
-  public lat: number = 47.3536713;
+  @Input()
+  public lat: any;
 
-  public lng: number = 8.7217896;
+  @Input()
+  public lng: any;
 
   public constructor() { }
 
@@ -27,17 +30,18 @@ export class MapComponent implements OnInit {
   public ngAfterViewInit() {
     let platform = new H.service.Platform({
       "app_id": this.appId,
-      "apikey": this.apikey
+      "app_code": this.appCode
     });
     let defaultLayers = platform.createDefaultLayers();
     let map = new H.Map(
       this.mapElement.nativeElement,
-      defaultLayers.raster.normal.map,
+      defaultLayers.normal.map,
       {
         zoom: 10,
         center: { lat: this.lat, lng: this.lng }
       }
     );
+    let behavior = new H.mapevents.Behavior(new H.mapevents.MapEvents(map));
   }
 
 }

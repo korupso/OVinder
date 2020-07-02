@@ -5,16 +5,15 @@ import { FormsModule } from '@angular/forms';
 import { HomePage } from './home.page';
 
 import { HomePageRoutingModule } from './home-routing.module';
-import { MapComponent } from '../map/map.component';
-
+import { HereMapComponent } from '../here-map/here-map.component';
 
 @NgModule({
   imports: [
     CommonModule,
     FormsModule,
     IonicModule,
-    HomePageRoutingModule,
+    HomePageRoutingModule
   ],
-  declarations: [HomePage]
+  declarations: [HomePage, HereMapComponent]
 })
 export class HomePageModule { }
