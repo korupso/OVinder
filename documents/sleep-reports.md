@@ -8,4 +8,11 @@ It got better once I closed my shutters.
 ### 1/5  
 **Description**  
 I think I got used to my alarm sound, since I did not hear it today.  
-I'll have to change it for tomorrow to see how it affects my morning.
+I'll have to change it for tomorrow to see how it affects my morning.  
+  
+## 03.07.2020  
+### 3/5  
+**Description**  
+I was barely able to sleep yesterday night.  
+I did not feel very well and involuntairily stood up almost all night.  
+I managed to wake up though, which is good.  

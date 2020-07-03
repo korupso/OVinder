@@ -47,4 +47,19 @@ I have got another error in my program.
 This time the error is an InvalidArgumentError caused by the HERE Platform Data Extension API in the service namespace.  
 Apparently I have not given the correct arguments in the correct order or the correct count.  
 I will continue to read the documentation on Fleet Telematics Advanced Data Sets that the API is using.  
-
+  
+  
+## 03.07.2020  
+**What did I do today?**  
+I have written 4 use cases and also the list of people who support me with this project.  
+I also have read more of the documentation on HERE Maps and have figured out the parameters for a method, that's been making my head hurt.  
+  
+**What will I do after the weekend?**  
+I'll create a table for the tools I've used and their licenses in the first hour of the day.  
+Afterwards I'll add the remaining small parts of the documentation until lunch time.  
+The rest of the day I'll spend on making the map work.  
+  
+**What hinders my progress?**  
+I do not currently have an obvious error, but the map doesn't show anyways.  
+I'll have another read in the documentation until I find some useful information on how to fix that problem.  
+Maybe I'll create a StackOverflow question, if I don't find anything.
