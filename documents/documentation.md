@@ -24,7 +24,7 @@ Google Maps may probably be faster at finding stations, but my app will not coll
 > Pete is the stakeholder of the project.  
 > He allowed me to choose the project myself, which is why my motivation is much bigger to complete it.  
   
-> **Me**
+> **Me**  
 > I am the developer, scrum master and product owner of this project.  
 > I also design the GUI and write the documentation.  
   
