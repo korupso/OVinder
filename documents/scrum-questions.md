@@ -33,6 +33,7 @@ It's also rather hard to stay focused, whenever there is an error that doesn't w
 **What did I do today?**  
 I have finished writing my application mail for Rafisa AG.  
 > It went rather well and I did not have to spend too much time on it.  
+  
 I have read the documentation for OpenHERE Maps API and I fiddled around with it in an example project.  
 > This did not go so well, because javascript did not recognize the MIME type the API was sending, since it's a padded JSON and not a normal one.  
 > I also got a version mismatch error, since the tutorial I followed was obsolete.  
