@@ -12,16 +12,19 @@ export class HereMapComponent implements OnInit {
   public mapElement: ElementRef;
 
   @Input()
-  public appId: any;
+  public apiKey: String;
 
   @Input()
-  public appCode: any;
+  public appId: string;
 
   @Input()
-  public lat: any;
+  public appCode: string;
 
   @Input()
-  public lng: any;
+  public lat: number;
+
+  @Input()
+  public lng: number;
 
   public constructor() { }
 
@@ -29,13 +32,14 @@ export class HereMapComponent implements OnInit {
 
   public ngAfterViewInit() {
     let platform = new H.service.Platform({
+      "apiKey": this.apiKey,
       "app_id": this.appId,
       "app_code": this.appCode
     });
     let defaultLayers = platform.createDefaultLayers();
     let map = new H.Map(
       this.mapElement.nativeElement,
-      defaultLayers.normal.map,
+      defaultLayers.raster.normal.map,
       {
         zoom: 10,
         center: { lat: this.lat, lng: this.lng }
