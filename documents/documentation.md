@@ -12,6 +12,11 @@ The big one is Google Maps, but as I mentioned above, it is missing this feature
 Google Maps may probably be faster at finding stations, but my app will not collect any unnecessary data (if any).  
   
   
+## Target group  
+The target group of this app is people, who are often in unfamiliar cities.  
+Using this app, they could easily find the way to some kind of public transport.  
+  
+  
 ## Helpers for this project  
 > **My Mother**  
 > She helps me wake up in the morning and reminds me to take my meds, so I have no trouble working.  
@@ -28,11 +33,27 @@ Google Maps may probably be faster at finding stations, but my app will not coll
 > I am the developer, scrum master and product owner of this project.  
 > I also design the GUI and write the documentation.  
   
-
-## Tools and Licensing
   
-
-## Use cases
+## Setup and Environment  
+I work from home using my personal laptop, that I bought for school.  
+Working on the balcony makes it easy for me have a relaxed environment, while not having a bed I could fall asleep on.  
+As an IDE I use Visual Studio Code, using Git as a source control.  
+  
+  
+## Scope and daily effort  
+I work 8 hours a day from monday to friday for about a month.  
+Breaks are 15 minutes before and after lunch, while lunch break is an hour.  
+  
+  
+## Tools and Licensing  
+| **Tool**               | **Usage**                                                             | **License**      |
+|------------------------|-----------------------------------------------------------------------|------------------|
+| HERE Maps API          | Gives a rendered map depending on Lat. and Lng.                       | Freemium         |
+| OpenData Transport API | Gives a list of connections on any given train-, bus- or tramstation. | Creative Commons |
+| Ionic Framework        | Packages an angular application into an iOS and Android app.          | MIT License      |  
+  
+  
+## Use cases  
 | **Use case**                          | Show all stations                                               |
 |---------------------------------------|-----------------------------------------------------------------|
 | **Pre-condition**                     | App is opened                                                   |
@@ -59,4 +80,54 @@ Google Maps may probably be faster at finding stations, but my app will not coll
 | **Pre-condition**                     | Clicked on a connection while a station has been selected     |
 | **Description of use case in detail** | The user can select a connection to see it's stations and it's arrival times |
 | **Post-condition**                    | The user can now see all stations of the desired connection   |
-| **Exceptions**                        | The stations could not be displayed, due to connection issues |
+| **Exceptions**                        | The stations could not be displayed, due to connection issues |  
+  
+  
+## Glossary  
+> **API**  
+> Application programming interface  
+  
+> **API key**  
+> A string of numbers and letters to identify a user using the API  
+  
+> **Component**  
+> A part of an Angular application able to hold methods, variables and a graphical user interface  
+  
+> **Creative Commons**  
+> An american non-profit organisation managing the copyright of products (incl. software)  
+  
+> **Exception**  
+> An unexpected result  
+  
+> **Framework**  
+> Someone else's code to make it easier to create software  
+  
+> **Freemium**  
+> A free price plan, where you pay, if you overuse the plan  
+  
+> **IDE**  
+> Interactive Development Environment  
+  
+> **JSON**  
+> Javascript Object Notation  
+  
+> **MIME type**  
+> Multipurpose Internet Mail Extensions (a kind of file typing system)  
+  
+> **Namespace**  
+> A custom name for a bundle of files or code  
+  
+> **Post-condition**  
+> What happens after a preceeding action  
+  
+> **Pre-condition**  
+> What needs to happen, so an action can be performed  
+  
+> **SCRUM**  
+> An agile framework used for software development to achieve the highest possible value of used time  
+  
+> **Use case**  
+> A description of a potential scenario of an input into the system and the resulting response  
+  
+> **Workaround**  
+> Not a fix for a problem, but a way to bypass it

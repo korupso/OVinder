@@ -63,4 +63,19 @@ The rest of the day I'll spend on making the map work.
 **What hinders my progress?**  
 I do not currently have an obvious error, but the map doesn't show anyways.  
 I'll have another read in the documentation until I find some useful information on how to fix that problem.  
-Maybe I'll create a StackOverflow question, if I don't find anything.
+Maybe I'll create a StackOverflow question, if I don't find anything.  
+  
+## 06.07.2020  
+**What did I do today?**  
+I have finished the documentation on what the project is so far.  
+I will obviously add more to it, if it does need it.  
+The morning really went as planned, while the afternoon was not as successful.  
+  
+**What will I do tomorrow?**  
+I will dedicate tomorrow towards making sure the map works as inteded.  
+I hope this will work.  
+  
+**What hinders my progress?**  
+The error I'm having with the map doesn't really display properly.  
+It's hard fixing an error you don't know the name, nor the cause of.  
+I'll try to read more into the documentation to fix it.

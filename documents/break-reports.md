@@ -8,4 +8,7 @@ I have forgotten, that I have breaks today, which means, that I did not do any.
 I did manage to remember to do a break, but it was a short one, since I ate my food at my laptop.  
   
 ## 03.07.2020  
-I did not really make a break, since my girlfriend brought lunch to my workstation.
+I did not really make a break, since my girlfriend brought lunch to my workstation.  
+  
+## 06.07.2020  
+I did make a break today.

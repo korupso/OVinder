@@ -16,3 +16,9 @@ I'll have to change it for tomorrow to see how it affects my morning.
 I was barely able to sleep yesterday night.  
 I did not feel very well and involuntairily stood up almost all night.  
 I managed to wake up though, which is good.  
+  
+## 06.07.2020  
+### 3/5  
+**Description**  
+I managed to wake up on time, but I was rather tired in the morning.  
+The different alarm helps a lot.
