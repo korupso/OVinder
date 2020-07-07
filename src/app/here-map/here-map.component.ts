@@ -1,4 +1,5 @@
 import { Component, OnInit, ViewChild, ElementRef, Input } from '@angular/core';
+import { MapService } from '../map.service';
 
 declare var H: any;
 
@@ -26,26 +27,15 @@ export class HereMapComponent implements OnInit {
   @Input()
   public lng: number;
 
-  public constructor() { }
+  public constructor(public mapService: MapService) { }
 
   public ngOnInit() { }
 
   public ngAfterViewInit() {
-    let platform = new H.service.Platform({
-      "apiKey": this.apiKey,
-      "app_id": this.appId,
-      "app_code": this.appCode
-    });
-    let defaultLayers = platform.createDefaultLayers();
-    let map = new H.Map(
-      this.mapElement.nativeElement,
-      defaultLayers.raster.normal.map,
-      {
-        zoom: 10,
-        center: { lat: this.lat, lng: this.lng }
-      }
-    );
-    let behavior = new H.mapevents.Behavior(new H.mapevents.MapEvents(map));
+    this.mapService.mapElement = this.mapElement;
+    this.mapService.resetMap(this.lat, this.lng);
   }
+
+
 
 }
