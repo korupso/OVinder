@@ -78,4 +78,23 @@ I hope this will work.
 **What hinders my progress?**  
 The error I'm having with the map doesn't really display properly.  
 It's hard fixing an error you don't know the name, nor the cause of.  
-I'll try to read more into the documentation to fix it.
+I'll try to read more into the documentation to fix it.  
+  
+## 07.07.2020  
+**What did I do today?**  
+I managed to make the map work, after reading more into the documentation.  
+It took quite a while, since I did not get a nicely formulated error.  
+The error must not be very common, because no search engine I know of got me an answer.  
+I considered posting a question on StackOverflow, but I then finally wrote the code I needed.  
+After I fixed the map, I read the UI part of the documentation. (At least the parts I needed)  
+With that, I was able to add the UI controls to the map.  
+
+**What will I do tomorrow?**
+I will work on the documentation for a few hours.
+The time it'll take really depends on what I think might be needed in there.  
+I estimate that it will take around 4-5 hours.  
+I'll test out some potential features, if I have enough time to spare.  
+  
+**What hinders my progress?**  
+There is no problem right now, since I just finished adding the map to the program.  
+It did take a while to fix the error today, since it did not specify the failed part of the code.

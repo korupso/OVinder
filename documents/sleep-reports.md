@@ -21,4 +21,10 @@ I managed to wake up though, which is good.
 ### 3/5  
 **Description**  
 I managed to wake up on time, but I was rather tired in the morning.  
-The different alarm helps a lot.
+The different alarm helps a lot.  
+  
+## 07.07.2020  
+### 4/5  
+**Description**  
+I took Elvanse today, since I was rather tired after waking up.  
+I got very alert and attentive about an hour later, which made working on this project pretty pleasant.
