@@ -82,4 +82,7 @@ layers: { id: string, color: string }[] = [
 ```  
 This would produce this result:  
 ![Image of all golf courses, bodies of water and forests marked, each in a different color](images/progress/multiple-layers-marked.png)
+<<<<<<< HEAD
+>>>>>>> 9ebc499f08360e8d02ea931a5f90d1ace3f3e6af
+=======
 >>>>>>> 9ebc499f08360e8d02ea931a5f90d1ace3f3e6af
