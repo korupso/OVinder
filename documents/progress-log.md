@@ -47,4 +47,8 @@
 > ];
 > ```  
 > This would produce this result:  
-> ![Image of all golf courses, bodies of water and forests marked, each in a different color](images/progress/multiple-layers-marked.png)
+> ![Image of all golf courses, bodies of water and forests marked, each in a different color](images/progress/multiple-layers-marked.png)  
+> 
+> ---  
+> ### 17:05  
+> I tested the marking functionality until now, so I can make sure it'll work in the end product.
