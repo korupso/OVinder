@@ -97,4 +97,19 @@ I'll test out some potential features, if I have enough time to spare.
   
 **What hinders my progress?**  
 There is no problem right now, since I just finished adding the map to the program.  
-It did take a while to fix the error today, since it did not specify the failed part of the code.
+It did take a while to fix the error today, since it did not specify the failed part of the code.  
+  
+## 08.07.2020  
+**What did I do today?**  
+I spent a good amount of time, thinking about where my app should go.  
+I also tried a few weather APIs and had an appointment with pete at move.  
+It took longer than expected to find a suitable API and I suspect it would take even longer to make it work.  
+  
+**What will I do tomorrow?**  
+I will try to find more suitable APIs.  
+I'll also focus more on the goal of having a few APIs instead of making a specific one work.  
+I'd much rather have 4 or 5 nice-to-have features in my app, than 2 that work, but only after having spent hours on them.  
+  
+**What hinders my progress?**
+Nothing really.  
+I'm trying my best to find an amazing API and to think of possible features, but that's very luck based.

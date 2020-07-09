@@ -15,4 +15,14 @@ I did make a break today.
   
 ## 07.07.2020  
 I only made a small break today, since my medication makes me lose my appetite.  
-I played some bass to get my mind off of work.
+I played some bass to get my mind off of work.  
+  
+## 08.07.2020  
+I still don't feel hungry at all, which is why I never know what to do in my breaks.  
+I just continued to play bass and learnt a new song.  
+That really helped to not sink into the "programmer-hole" and not being able to stop working.  
+  
+## 09.07.2020  
+I created reminders on my phone for my breaks, which really helps me remember them.  
+I have not eaten actual food since I've taken my medication. 
+Never have I realised how long a 30 minute break can feel like.

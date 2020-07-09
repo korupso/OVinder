@@ -1,0 +1,23 @@
+> ## 08.07.2020
+> ### 09:10
+> I looked for a good weather map to use as an overlay for my app, but I did not find any api that worked as I wanted it to.
+> Some of these APIs did not even work on their demo website.
+> Vane is an example of such an API:
+> ![Image of Vane not working](images/research/vane_weather-map.png)
+> ---
+> ### 10:20
+> I looked through some of the other weather APIs and one thing that stuck out to me was how much personal information these companies want.
+> Trimble would be a great example for that.
+> This API wants your full name, the name of your company, your job title, your email and your phone number.
+> There is no way to test it without handing them half of your CV.
+> ![Image of trimble login screen](images/research/trimble_weather-map.png)
+> ---
+> ### 13:45
+> I've finally found a contestant for a weather API.
+> This one is called Windy and it's pretty straight forward.
+> 1. Get an API key
+> 2. Add the library to your HTML body
+> 3. Add the method to your code
+> 4. Hope that it works the first time
+> *It did not work the first time*
+> ![Image of a windy error](images/errors/windy_error.png)

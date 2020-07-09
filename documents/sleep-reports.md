@@ -27,4 +27,19 @@ The different alarm helps a lot.
 ### 4/5  
 **Description**  
 I took Elvanse today, since I was rather tired after waking up.  
-I got very alert and attentive about an hour later, which made working on this project pretty pleasant.
+I got very alert and attentive about an hour later, which made working on this project pretty pleasant.  
+  
+## 08.07.2020
+### 4/5
+**Description**
+Sometimes I forget, that I'm taking strong medication to wake up.  
+Makes me feel normal, whenever I'm actually able to do things in the morning.  
+  
+## 09.07.2020
+### 4.5/5
+**Description**
+I feel like I'm starting to get there.  
+I'm home alone today, which means, that nobody is able to wake me up.  
+Nevertheless I did not oversleep and also did not forget to take my medication.  
+Can't really remember anything of what happened before 09:00 though.  
+Luckily I made a post in the progress logs.
