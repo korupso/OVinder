@@ -11,7 +11,7 @@ I will try to finish the SCRUM board and start the documentation.
 The GitHub error from yesterday put me back a few hours, but I managed to find a workaround.  
 The temperature in my room is not very pleasant, so I'll try to work on the balcony from now on.
   
-  
+---  
 ## 01.07.2020  
 **What did I do today?**  
 I finished the SCRUM board and the stock analysis.  
@@ -28,7 +28,7 @@ The documentation for the API is on an older version, which does make a huge dif
 It's hard to concentrate with this weather going on.  
 It's also rather hard to stay focused, whenever there is an error that doesn't want to go away for hours.  
   
-  
+---  
 ## 02.07.2020  
 **What did I do today?**  
 I have finished writing my application mail for Rafisa AG.  
@@ -49,7 +49,7 @@ This time the error is an InvalidArgumentError caused by the HERE Platform Data 
 Apparently I have not given the correct arguments in the correct order or the correct count.  
 I will continue to read the documentation on Fleet Telematics Advanced Data Sets that the API is using.  
   
-  
+---  
 ## 03.07.2020  
 **What did I do today?**  
 I have written 4 use cases and also the list of people who support me with this project.  
@@ -65,6 +65,7 @@ I do not currently have an obvious error, but the map doesn't show anyways.
 I'll have another read in the documentation until I find some useful information on how to fix that problem.  
 Maybe I'll create a StackOverflow question, if I don't find anything.  
   
+---  
 ## 06.07.2020  
 **What did I do today?**  
 I have finished the documentation on what the project is so far.  
@@ -80,6 +81,7 @@ The error I'm having with the map doesn't really display properly.
 It's hard fixing an error you don't know the name, nor the cause of.  
 I'll try to read more into the documentation to fix it.  
   
+---  
 ## 07.07.2020  
 **What did I do today?**  
 I managed to make the map work, after reading more into the documentation.  
@@ -99,6 +101,7 @@ I'll test out some potential features, if I have enough time to spare.
 There is no problem right now, since I just finished adding the map to the program.  
 It did take a while to fix the error today, since it did not specify the failed part of the code.  
   
+---  
 ## 08.07.2020  
 **What did I do today?**  
 I spent a good amount of time, thinking about where my app should go.  
