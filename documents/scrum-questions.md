@@ -115,4 +115,22 @@ I'd much rather have 4 or 5 nice-to-have features in my app, than 2 that work, b
   
 **What hinders my progress?**
 Nothing really.  
-I'm trying my best to find an amazing API and to think of possible features, but that's very luck based.
+I'm trying my best to find an amazing API and to think of possible features, but that's very luck based.  
+  
+---  
+## 09.07.2020
+**What did I do today?**
+I was able to find the elusive list of markable areas on a HERE map.  
+This should not have taken this long, HERE needs to make that more accessible.  
+I had to go through pages upon pages of documentation and had to resort to reading the code.  
+But it worked out in the end, and now I have the ability to mark things.  
+I also wrote some code to make it easier to do that, so I can implement it into the GUI later.  
+  
+**What will I do tomorrow?**
+I will dedicate the morning towards finding new possible features for the app.  
+I still am a bit undecided what to do with it, but I believe that it's going in the right direction.  
+The afternoon will be spent trying to implement what I've (hopefully) found in the morning.  
+
+**What hinders my progress?**
+I had some problems with Markdown today, but I got it fixed.  
+There was no concrete solution to it, I just tried a bunch of stuff until it eventually worked.
