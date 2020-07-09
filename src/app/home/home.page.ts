@@ -14,12 +14,13 @@ export class HomePage implements OnInit {
   constructor(private mapService: MapService) { }
 
   public ngOnInit() {
+    console.log(new Date().toLocaleTimeString("ch"));
+
     if (navigator.geolocation) {
       navigator.geolocation.getCurrentPosition(
         (position: Position) => {
           this.lat = position.coords.latitude;
           this.lng = position.coords.longitude;
-          console.log(this.lat, this.lng);
         },
         (error: PositionError) => {
           console.log(error);
