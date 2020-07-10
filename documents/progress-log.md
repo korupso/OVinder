@@ -55,7 +55,7 @@
 ---  
 ---  
 > ## 10.07.2020  
-> ### 14:00
+> ### 13:00
 > I found a goldmine on opendata.swiss.  
 > Everything that's related to parking in the Zurich has a dataset.  
 > This is also the reason, why I did not write this earlier, since I was bombarded with data.  
@@ -73,4 +73,10 @@
 >> All parking zones  
 >
 >> ![Image of all parking spaces for two-wheelers in Zurich](images/research/parkierung_zweirad.png)  
->> All parking spaces for two-wheelers
+>> All parking spaces for two-wheelers  
+> 
+> ---  
+> ## 14:20
+> I've found a dataset of all the zones in Switzerland, where you're not allowed to fly drones.  
+> I thought this might also be of use to some people, since the fine you have to pay, if you accidentally fly into a no-fly zone are pretty hefty.  
+> ![Image of all the no-fly zones in Switzerland](images/research/shape-file_restrictions-for-drones.png)
