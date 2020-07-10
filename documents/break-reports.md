@@ -25,4 +25,8 @@ That really helped to not sink into the "programmer-hole" and not being able to 
 ## 09.07.2020  
 I created reminders on my phone for my breaks, which really helps me remember them.  
 I have not eaten actual food since I've taken my medication. 
-Never have I realised how long a 30 minute break can feel like.
+Never have I realised how long a 30 minute break can feel like.  
+  
+## 10.07.2020  
+I did not have time for a break today, since my girlfriend needed some help with a school project.  
+Today's the last day of school for her this semester, so this wont happen again, no matter what.

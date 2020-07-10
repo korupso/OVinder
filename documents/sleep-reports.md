@@ -42,4 +42,12 @@
 > I'm home alone today, which means, that nobody is able to wake me up.  
 > Nevertheless I did not oversleep and also did not forget to take my medication.  
 > Can't really remember anything of what happened before 09:00 though.  
-> Luckily I made a post in the progress logs.
+> Luckily I made a post in the progress logs.  
+  
+> ## 10.07.2020  
+> ### 5/5  
+> **Description**  
+> I slept pretty late, since I had to help my girlfriend with a school project.  
+> Her teampartner did not do his work and I wouldn't have been able to, to just watch her get a bad grade without it being her fault.  
+> I woke up early enough to gain some conciousness before starting work, which is a nice thing to have.  
+> I did take three Elvanse today instead of one, which is probably one of the reasons it worked out so well.

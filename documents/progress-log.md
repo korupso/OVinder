@@ -51,4 +51,26 @@
 > 
 > ---  
 > ### 17:05  
-> I tested the marking functionality until now, so I can make sure it'll work in the end product.
+> I tested the marking functionality until now, so I can make sure it'll work in the end product.  
+---  
+---  
+> ## 10.07.2020  
+> ### 14:00
+> I found a goldmine on opendata.swiss.  
+> Everything that's related to parking in the Zurich has a dataset.  
+> This is also the reason, why I did not write this earlier, since I was bombarded with data.  
+> I hope I can figure out how to implement that into my app.  
+>> ![Image of all parking lots for cars in Zurich](images/research/parkierung_auto.png)  
+>> All parking lots for cars  
+>
+>> ![Image of all parkhouses in Zurich](images/research/parkierung_bedacht.png)
+>> All parkhouses  
+>
+>> ![Image of all parking lots for the disabled](images/research/parkierung_behinderte.png)  
+>> All parking lots for the disabled  
+>
+>> ![Image of the different parking zones in Zurich](images/research/parkierung_tarife.png)  
+>> All parking zones  
+>
+>> ![Image of all parking spaces for two-wheelers in Zurich](images/research/parkierung_zweirad.png)  
+>> All parking spaces for two-wheelers
