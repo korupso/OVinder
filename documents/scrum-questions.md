@@ -133,4 +133,19 @@ The afternoon will be spent trying to implement what I've (hopefully) found in t
 
 **What hinders my progress?**
 I had some problems with Markdown today, but I got it fixed.  
-There was no concrete solution to it, I just tried a bunch of stuff until it eventually worked.
+There was no concrete solution to it, I just tried a bunch of stuff until it eventually worked.  
+
+---  
+## 10.07.2020  
+**What did I do today?**
+I found some very usable datasets on opendata.swiss and I was able to use at least one of them.  
+The code I wrote for that I dynamic though, which means, that the other ones should be a walk in the park to implement.  
+  
+**What will I do after the weekend?**
+I will have a job interview at Rafisa GMBH on monday, and I also have an appointment with my somnologist, so I wont have a lot of time to work on my app.  
+I'll still try to brainstorm some ideas on what to do with my app.  
+  
+**What hinders my progress?**
+I do not yet have a road block, yet I kind of expect one from a certain dataset I have.  
+The one I'm talking about is not stored in markers on the map, but in shapes.  
+But I think that there's no other way to find out than to try.

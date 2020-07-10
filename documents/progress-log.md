@@ -79,4 +79,10 @@
 > ## 14:20
 > I've found a dataset of all the zones in Switzerland, where you're not allowed to fly drones.  
 > I thought this might also be of use to some people, since the fine you have to pay, if you accidentally fly into a no-fly zone are pretty hefty.  
-> ![Image of all the no-fly zones in Switzerland](images/research/shape-file_restrictions-for-drones.png)
+> ![Image of all the no-fly zones in Switzerland](images/research/shape-file_restrictions-for-drones.png)  
+>
+> ---  
+> ## 17:30  
+> I managed to implement some rather chunky methods, which make it very easy to import such datasets.  
+> I've tested it on the dataset of all parking lots for the disabled.  
+> ![Screenshot of all parking lots for the disabled displayed on my app](images/progress/markers/parkierung_behinderte.png)
