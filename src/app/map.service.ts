@@ -1,6 +1,8 @@
 import { Injectable, ElementRef } from '@angular/core';
 import { UtilService } from './util.service';
 
+import parkierung_behinderte from './geoJSON/parkierung_behinderte.json';
+
 declare var H: any;
 
 @Injectable({
@@ -12,19 +14,13 @@ export class MapService {
   mapElement: ElementRef;
   mapStyle: any;
 
-  layers: { id: string, color: string }[] = [
-    { id: "landuse.golf", color: "#5555FF" },
-    { id: "water", color: "#FFAAAA" },
-    { id: "landuse.forest", color: "#00AA00" }
-  ];
+  layers: { id: string, color: string }[] = [];
+
+  markerIcons: { parkierung_behinderte: string } = {
+    parkierung_behinderte: "https://upload.wikimedia.org/wikipedia/commons/e/eb/Handicapped_Accessible_sign.svg"
+  };
 
   constructor(private U: UtilService) { }
-
-  setMap(h: any) {
-    if (this.map) this.map = null;
-    this.map = h;
-    return this.map;
-  }
 
   resetMap(lat, lng) {
     if (navigator.geolocation) {
@@ -60,6 +56,9 @@ export class MapService {
             }
           };
           this.mapStyle.addEventListener('change', changeListener);
+
+          this.U.getPointsFromGeoJSON("parkierung_behinderte", parkierung_behinderte);
+          this.addMarkers(this.U.loadedMarkers[0], this.markerIcons.parkierung_behinderte);
         },
         (error: PositionError) => console.log(error),
         { timeout: 30000, enableHighAccuracy: true, maximumAge: 75000 }
@@ -70,17 +69,17 @@ export class MapService {
   markLayers() {
     this.layers.forEach(layer => {
       var layerConfig = this.mapStyle.extractConfig([layer.id]);
-      var draw = this.accessProperty(layer.id, layerConfig.layers).draw;
+      var draw = this.U.accessProperty(layer.id, layerConfig.layers).draw;
       draw[draw["polygons"] ? "polygons" : "lines"].color = layer.color;
       this.mapStyle.mergeConfig(layerConfig);
     });
   }
 
-  accessProperty(id: string, res: any) {
-    var properties = id.split(".").reverse();
+  addMarkers(marker: { name: string, pos: { lat: number, lng: number }[], selected: boolean }, icon: string) {
+    var markerIcon = new H.map.Icon(icon, { size: { w: 24, h: 24 } });
 
-    while (properties.length > 0) res = res[properties.pop()];
-
-    return res;
+    marker.pos.forEach(coords => {
+      this.map.addObject(new H.map.Marker(coords, { icon: markerIcon }));
+    });
   }
 }
