@@ -148,4 +148,31 @@ I'll still try to brainstorm some ideas on what to do with my app.
 **What hinders my progress?**
 I do not yet have a road block, yet I kind of expect one from a certain dataset I have.  
 The one I'm talking about is not stored in markers on the map, but in shapes.  
-But I think that there's no other way to find out than to try.
+But I think that there's no other way to find out than to try.  
+  
+---  
+## 13.07.2020  
+**What did I do today?**  
+I had a job interview, which went very well, but I was not able to work on the project, due to another appointment right after the interview.  
+  
+**What will I do tomorrow?**  
+I will try to make it possible to import more datasheets.  
+Maybe make the methods more dynamic.  
+  
+**What hinders my progress?**
+-  
+  
+---  
+## 14.07.2020  
+**What did I do today?**  
+I worked on importing the different datasets and I designed some icons for the markers.  
+  
+**What will I do tomorrow?**  
+Rafisa AG invited me to come have a look around in their company, which means there is no time for the project tomorrow.  
+I'll take my laptop with me, to show them, what I've done so far.  
+  
+**What hinders my progress?**  
+Mostly time.  
+I'm in a very linear part of the project.  
+There isn't any bug or error halting the progress.  
+The progress is just rather slow.

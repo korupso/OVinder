@@ -29,4 +29,7 @@ Never have I realised how long a 30 minute break can feel like.
   
 ## 10.07.2020  
 I did not have time for a break today, since my girlfriend needed some help with a school project.  
-Today's the last day of school for her this semester, so this wont happen again, no matter what.
+Today's the last day of school for her this semester, so this wont happen again, no matter what.  
+  
+## 13.07.2020
+I did not really have a break today, since I had a job interview at Rafisa AG.

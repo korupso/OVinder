@@ -76,13 +76,32 @@
 >> All parking spaces for two-wheelers  
 > 
 > ---  
-> ## 14:20
+> ### 14:20
 > I've found a dataset of all the zones in Switzerland, where you're not allowed to fly drones.  
 > I thought this might also be of use to some people, since the fine you have to pay, if you accidentally fly into a no-fly zone are pretty hefty.  
 > ![Image of all the no-fly zones in Switzerland](images/research/shape-file_restrictions-for-drones.png)  
 >
 > ---  
-> ## 17:30  
+> ### 17:30  
 > I managed to implement some rather chunky methods, which make it very easy to import such datasets.  
 > I've tested it on the dataset of all parking lots for the disabled.  
-> ![Screenshot of all parking lots for the disabled displayed on my app](images/progress/markers/parkierung_behinderte.png)
+> ![Screenshot of all parking lots for the disabled displayed on my app](images/progress/markers/parkierung_behinderte.png)  
+---  
+---  
+> ## 14.07.2020  
+> ### 14:00  
+> I wrote a few functions, to make the import easier and more dynamic, but it's loading all the markers at once, which blue screened my laptop. I did lose quite a lot of my progress, but I did not lose my patience.
+> 
+> ---  
+> ### 17:15
+> I finished rebuilding what I've lost today, but there is still a problem with a dataset.  
+> The parking lot dataset has thousands of entries, and it's still being loaded at the same time.  
+> But it's too late now to fix it today, so I guess this will be tomorrow's challenge.  
+>> Here is a screenshot, of how the app looks so far:  
+>> ![Image of all currently implemented markers visible right next to Zurich main station](images/progress/markers/all_parking-markers_except_cars.png)  
+>  
+>> Here are the icons that I designed today (except for the disabled icon):  
+>> ![Bike parking spot icon](images/progress/markers/icons/parking_bike.png)  
+>> ![Parking lot icon](images/progress/markers/icons/parking_car.png)  
+>> ![Disabled parking lot icon](images/progress/markers/icons/parking_disabled.png)  
+>> ![Parking garage icon](images/progress/markers/icons/parking_garage.png)

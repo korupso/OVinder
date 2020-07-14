@@ -50,4 +50,16 @@
 > I slept pretty late, since I had to help my girlfriend with a school project.  
 > Her teampartner did not do his work and I wouldn't have been able to, to just watch her get a bad grade without it being her fault.  
 > I woke up early enough to gain some conciousness before starting work, which is a nice thing to have.  
-> I did take three Elvanse today instead of one, which is probably one of the reasons it worked out so well.
+> I did take three Elvanse today instead of one, which is probably one of the reasons it worked out so well.  
+  
+> ## 13.07.2020
+> ### 3/5  
+> **Description**  
+> I was not able to sleep very well last night and I also had to wake up 30 minutes earlier than usual.  
+  
+> ## 14.07.2020  
+> ### 4/5  
+> **Description**  
+> I was able to wake up on time, which was 30 minutes earlier than usual as well.  
+> But I did not have a lot of time in the morning, I basically had to jump out of bed, directly to the front door.  
+> I did forget to take my melatonin though, which probably was the issue.
