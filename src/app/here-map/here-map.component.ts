@@ -21,21 +21,12 @@ export class HereMapComponent implements OnInit {
   @Input()
   public appCode: string;
 
-  @Input()
-  public lat: number;
-
-  @Input()
-  public lng: number;
-
   public constructor(public mapService: MapService) { }
 
   public ngOnInit() { }
 
   public ngAfterViewInit() {
     this.mapService.mapElement = this.mapElement;
-    this.mapService.resetMap(this.lat, this.lng);
+    this.mapService.resetMap();
   }
-
-
-
 }

@@ -9,31 +9,15 @@ import { UtilService } from '../util.service';
 })
 export class HomePage implements OnInit {
 
-  lat: number;
-  lng: number;
-
   constructor(private mapService: MapService, private U: UtilService) { }
 
   public ngOnInit() {
     console.log(new Date().toLocaleTimeString("ch"));
-
-    if (navigator.geolocation) {
-      navigator.geolocation.getCurrentPosition(
-        (position: Position) => {
-          this.lat = position.coords.latitude;
-          this.lng = position.coords.longitude;
-        },
-        (error: PositionError) => {
-          console.log(error);
-        },
-        { timeout: 30000, enableHighAccuracy: true, maximumAge: 75000 }
-      );
-    }
   }
 
   @HostListener("window:resize", ["$event"])
   public onResize(event?) {
     console.log(event);
-    this.mapService.resetMap(this.lat, this.lng);
+    this.mapService.resetMap();
   }
 }
