@@ -23,7 +23,9 @@ export class MapService {
   });
 
   selectedMarkers: string[] = [
-    "parking_car"
+    "parking_bike",
+    "parking_garage",
+    "parking_disabled"
   ];
 
   constructor(private U: UtilService) { }
@@ -46,7 +48,7 @@ export class MapService {
       var provider = this.map.getBaseLayer().getProvider();
       this.mapStyle = provider.getStyle();
 
-      var changeListener = (evt) => {
+      var changeListener = (evt: any) => {
         if (this.mapStyle.getState() === H.map.Style.State.READY) {
           this.mapStyle.removeEventListener('change', changeListener);
           this.markLayers();
@@ -56,13 +58,13 @@ export class MapService {
 
       markers.forEach(marker => {
         if (this.selectedMarkers.includes(marker.name)) this.fetchData(marker.name, data => {
-          this.addMarkers(data, marker.icon)
+          this.addMarkers(data, new H.map.Icon(marker.icon, { size: { w: 24, h: 24 } }))
         });
       });
     });
   }
 
-  fetchData(name: string, cb: (data) => void) {
+  fetchData(name: string, cb: (data: any) => void) {
     import('./geoJSON/' + name + ".json").then(data => {
       cb(data.default);
     });
@@ -70,7 +72,10 @@ export class MapService {
 
   fetchCoords(cb: (lat: number, lng: number) => void) {
     if (navigator.geolocation) navigator.geolocation.getCurrentPosition(
-      (position: Position) => cb(position.coords.latitude, position.coords.longitude),
+      (position: Position) => {
+        cb(47.37666, 8.5389);
+        // cb(position.coords.latitude, position.coords.longitude);
+      },
       (error: PositionError) => console.log(error),
       { timeout: 30000, enableHighAccuracy: true, maximumAge: 75000 }
     );
@@ -85,11 +90,11 @@ export class MapService {
     });
   }
 
-  async addMarkers(data: { type: string, geometry: { type: string, coordinates: number[], }, properties: any, }[], icon: string) {
-    var markerIcon = new H.map.Icon(icon, { size: { w: 24, h: 24 } });
-
+  addMarkers(data: { type: string, geometry: { type: string, coordinates: number[], }, properties: any, }[], icon: string) {
+    var markers = [];
     for (var i = 0; i < data.length; i++) {
-      this.map.addObject(new H.map.Marker({ lat: data[i].geometry.coordinates[1], lng: data[i].geometry.coordinates[0] }, { icon: markerIcon, min: 16 }));
+      markers.push(new H.map.Marker({ lat: data[i].geometry.coordinates[1], lng: data[i].geometry.coordinates[0] }, { icon: icon, min: 16 }));
     }
+    this.map.addObjects(markers);
   }
 }
