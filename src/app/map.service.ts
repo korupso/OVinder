@@ -1,7 +1,9 @@
 import { Injectable, ElementRef } from '@angular/core';
 import { UtilService } from './util.service';
+import { HttpClient } from '@angular/common/http';
 
 import markers from './markers.json';
+import { Router } from '@angular/router';
 
 declare var H: any;
 
@@ -14,6 +16,8 @@ export class MapService {
   mapElement: ElementRef;
   mapStyle: any;
 
+  reader: any;
+
   layers: { id: string, color: string }[] = [];
 
   platform = new H.service.Platform({
@@ -23,12 +27,10 @@ export class MapService {
   });
 
   selectedMarkers: string[] = [
-    "parking_bike",
-    "parking_garage",
-    "parking_disabled"
+    "parking_car"
   ];
 
-  constructor(private U: UtilService) { }
+  constructor(private U: UtilService, private http: HttpClient, private router: Router) { }
 
   resetMap() {
     this.fetchCoords((lat, lng) => {
@@ -41,6 +43,26 @@ export class MapService {
           center: { lat: lat, lng: lng }
         }
       );
+
+      var mapListener = mapEvent => {
+        if (this.map.getZoom() >= 16) if (mapEvent.oldValue.lookAt) if (mapEvent.oldValue.lookAt.position !== { lat: 0, lng: 0 }) {
+          this.map.removeEventListener("mapviewchange", mapListener);
+          this.selectedMarkers.forEach(selectedMarker => {
+            var icon = new H.map.Icon(markers.find(marker => marker.name === selectedMarker).icon, {
+              size: {
+                w: 24, h: 24
+              }
+            })
+            this.reader = new H.data.geojson.Reader("/assets/geoJSON/" + selectedMarker + ".json", {
+              disableLegacyMode: true,
+              style: (style) => style.setIcon(icon)
+            });
+            var bounds = mapEvent.newValue.lookAt.bounds.ab.W;
+            this.parseData({ high: { lat: bounds[0], lng: bounds[1] }, low: { lat: bounds[6], lng: bounds[7] } });
+          });
+        }
+      };
+      this.map.addEventListener("mapviewchange", mapListener);
       var ui = H.ui.UI.createDefault(this.map, defaultLayers);
       var mapEvents = new H.mapevents.MapEvents(this.map);
       var behavior = new H.mapevents.Behavior(mapEvents);
@@ -55,19 +77,25 @@ export class MapService {
         }
       };
       this.mapStyle.addEventListener('change', changeListener);
-
-      markers.forEach(marker => {
-        if (this.selectedMarkers.includes(marker.name)) this.fetchData(marker.name, data => {
-          this.addMarkers(data, new H.map.Icon(marker.icon, { size: { w: 24, h: 24 } }))
-        });
-      });
     });
   }
 
-  fetchData(name: string, cb: (data: any) => void) {
-    import('./geoJSON/' + name + ".json").then(data => {
-      cb(data.default);
-    });
+  parseData(bounds: { high: { lat: number, lng: number }, low: { lat: number, lng: number } }) {
+    var geoListener = stateEvent => {
+      if (stateEvent.state === 2) {
+        this.reader.removeEventListener("statechange", geoListener);
+        var objects = this.reader.getParsedObjects()[0].getObjects();
+        for (var i = 0; i < objects.length; i++) {
+          var point = objects[i].b;
+          if (point.lat >= bounds.high.lat || point.lng >= bounds.high.lng || point.lat <= bounds.low.lat || point.lng <= bounds.low.lng) {
+            objects[i].setVisibility(false);
+          }
+        };
+        this.map.addLayer(this.reader.getLayer());
+      }
+    };
+    this.reader.addEventListener("statechange", geoListener);
+    this.reader.parse();
   }
 
   fetchCoords(cb: (lat: number, lng: number) => void) {
@@ -88,13 +116,5 @@ export class MapService {
       draw[draw["polygons"] ? "polygons" : "lines"].color = layer.color;
       this.mapStyle.mergeConfig(layerConfig);
     });
-  }
-
-  addMarkers(data: { type: string, geometry: { type: string, coordinates: number[], }, properties: any, }[], icon: string) {
-    var markers = [];
-    for (var i = 0; i < data.length; i++) {
-      markers.push(new H.map.Marker({ lat: data[i].geometry.coordinates[1], lng: data[i].geometry.coordinates[0] }, { icon: icon, min: 16 }));
-    }
-    this.map.addObjects(markers);
   }
 }
