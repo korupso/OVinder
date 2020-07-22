@@ -175,4 +175,43 @@ I'll take my laptop with me, to show them, what I've done so far.
 Mostly time.  
 I'm in a very linear part of the project.  
 There isn't any bug or error halting the progress.  
-The progress is just rather slow.
+The progress is just rather slow.  
+  
+---  
+## 17.07.2020  
+**What did I do today?**  
+I found a method from the HERE API to read geoJSON data, which makes it (hopefully) more efficient to parse these files.  
+I also managed to implement the method, but it's not really functional yet.  
+  
+**What will I do after the weekend?**  
+I will try to make the read out data readable, so I can start to make it functional.  
+  
+**What hinders my progress?**  
+There isn't really a problem, it's just not a very fast process to trial and error my way through the API.  
+  
+---  
+## 20.07.2020  
+**What did I do today?**  
+I found a method, that reveils the read out data, in a form, that is easily understood.  
+The method is also pretty fast, which is good.  
+  
+**What will I do tomorrow?**  
+I'll try to use that method to make only the necessary markers render on the map.  
+This may allow me to utilize the 49k+ parking lots.  
+  
+**What hinders my progress?**  
+It took quite a while to find the correct function for this task, since the documenation has clearly not been checked for readablility.  
+It feels like reading the inline comments on a program with hundreds of classes and namespaces.  
+  
+---  
+## 21.07.2020  
+**What did I do today?**  
+I managed to do what I wanted to do.  
+The markers load correctly, but not dynamically yet.  
+  
+**What will I do tomorrow?**  
+I finally need to finish the formalities for the project.  
+Since I now know, that the datasets, that I found, can be utilized, I was able to decide on what to do with my project.  
+  
+**What hinders my progress?**  
+I did not have a lot of time today, since I had to go to an appointment with Pete.  

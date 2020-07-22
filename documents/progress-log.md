@@ -104,4 +104,43 @@
 >> ![Bike parking spot icon](images/progress/markers/icons/parking_bike.png)  
 >> ![Parking lot icon](images/progress/markers/icons/parking_car.png)  
 >> ![Disabled parking lot icon](images/progress/markers/icons/parking_disabled.png)  
->> ![Parking garage icon](images/progress/markers/icons/parking_garage.png)
+>> ![Parking garage icon](images/progress/markers/icons/parking_garage.png)  
+---  
+---  
+> ## 17.07.2020 
+> ### 12:45 
+> Found a better way to read out geoJSON files, using the HERE Maps API.
+> This method probably is able to read it much more efficiently than my own method.
+>
+> ---
+> ### 17:10
+> I managed to implement the native method of the API to read the data.
+> I am not able to use the read out data yet, since it doesn't return the same type.
+---
+---
+> ## 20.07.2020
+> ### 11:45
+> I'm clicking through the documentation for the geoJSON reader from the HERE API, to find a method, that may fit with what I need to make the markers on the map load faster.
+> I have tried a few approaches, but nothing has worked so far.
+>
+> ---
+> ### 17:30
+> I found a method called:
+> ```typescript
+> .getParsedObjects(): H.map.Object[]
+> ```
+> This method returns all map objects parsed via the geoJSON reader.  
+> Using this, I'm able to access the coordinates of all the parsed markers.  
+---  
+---  
+> ## 21.07.2020  
+> ### 12:30  
+> I found a way to get the coordinates of the corners of the visible map.  
+> This way I can filter out all the markers, that don't need to be visible/loaded.  
+> Using this, the program does not have to render all 49'000+ parking lots.  
+> Instead it only renders the ~200 lots, that are visible on screen, which makes the loading times around 60 times faster.  
+>> Here is the map loaded with the visible parking lots  
+>> ![Image of parking lots near the main station](images/progress/markers/view-bounds/parking_car.png)  
+>>  
+>> Here the map zoomed out, to show, that only the important ones are loaded  
+>> ![The above image zoomed out](images/progress/markers/view-bounds/parking_car-zoomed_out.png)  

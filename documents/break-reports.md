@@ -32,4 +32,19 @@ I did not have time for a break today, since my girlfriend needed some help with
 Today's the last day of school for her this semester, so this wont happen again, no matter what.  
   
 ## 13.07.2020
-I did not really have a break today, since I had a job interview at Rafisa AG.
+I did not really have a break today, since I had a job interview at Rafisa AG.  
+  
+## 14.07.2020  
+I forgot to make a break, so I made it a little bit later.  
+  
+## 17.07.2020  
+Got some lunch with my girlfriend today and did all my breaks on time.  
+  
+## 20.07.2020  
+I did make a nice break today, since it's my birthday.  
+  
+## 21.07.2020  
+I could not really make a break, since I needed to go to an appointment with Pete.  
+  
+## 22.07.2020  
+I had a nice break today and on time for once.

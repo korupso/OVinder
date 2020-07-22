@@ -62,4 +62,36 @@
 > **Description**  
 > I was able to wake up on time, which was 30 minutes earlier than usual as well.  
 > But I did not have a lot of time in the morning, I basically had to jump out of bed, directly to the front door.  
-> I did forget to take my melatonin though, which probably was the issue.
+> I did forget to take my melatonin though, which probably was the issue.  
+  
+> ## 15.07.2020  
+> ### 0/5  
+> **Description**  
+> It was not possible for me to get out of bed today.  
+> I took double the amount of Elvanse this morning, but that was also not enough.  
+> I'm not quite sure what the reason for the crash today was, but I hope it wont happen again.  
+  
+> ## 16.07.2020  
+> ### 5/5  
+> **Description**  
+> I did not really have a problem to wake up today.  
+> This may be influenced by me not being able to wake up yesterday and then sleeping all day.  
+  
+> ## 17.07.2020  
+> ### 4/5  
+> It was not as easy as yesterday, but quite similar.  
+  
+> ## 20.07.2020  
+> ### 3/5  
+> I did have some issues waking up, but today being my birthday is certainly the reason to why it was like that today.  
+> I slept pretty late yesterday, since I wanted to have a little party with some friends until after midnight.  
+  
+> ## 21.07.2020  
+> ### 3.5/5  
+> I obviously did not go to sleep very early yesterday.  
+> It was not that bad to wake up though.  
+  
+> ## 22.07.2020  
+> ### 3.5/5  
+> Today went not well, but not bad either.  
+> I woke up, when I had to wake up, but I was not as awake and alert, as I should've been.
