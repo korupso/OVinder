@@ -15,8 +15,7 @@ export class MapService {
   map: any;
   mapElement: ElementRef;
   mapStyle: any;
-
-  reader: any;
+  mapObjects = [];
 
   layers: { id: string, color: string }[] = [];
 
@@ -32,6 +31,9 @@ export class MapService {
 
   constructor(private U: UtilService, private http: HttpClient, private router: Router) { }
 
+  /**
+   * This function is called, whenever the map needs a reset.
+   */
   resetMap() {
     this.fetchCoords((lat, lng) => {
       let defaultLayers = this.platform.createDefaultLayers();
@@ -44,21 +46,21 @@ export class MapService {
         }
       );
 
+      var mapViewListener = mapEvent => {
+        if (mapEvent.newValue.lookAt) if (mapEvent.newValue.lookAt.zoom >= 16) {
+          this.updateVisibility(mapEvent.newValue.lookAt.bounds.getBoundingBox());
+        }
+      };
+      this.map.addEventListener("mapviewchange", mapViewListener);
+
       var mapListener = mapEvent => {
-        if (this.map.getZoom() >= 16) if (mapEvent.oldValue.lookAt) if (mapEvent.oldValue.lookAt.position !== { lat: 0, lng: 0 }) {
+        if (mapEvent.oldValue.lookAt) if (mapEvent.oldValue.lookAt.position !== { lat: 0, lng: 0 }) {
           this.map.removeEventListener("mapviewchange", mapListener);
           this.selectedMarkers.forEach(selectedMarker => {
-            var icon = new H.map.Icon(markers.find(marker => marker.name === selectedMarker).icon, {
-              size: {
-                w: 24, h: 24
-              }
-            })
-            this.reader = new H.data.geojson.Reader("/assets/geoJSON/" + selectedMarker + ".json", {
-              disableLegacyMode: true,
-              style: (style) => style.setIcon(icon)
+            this.parseData(selectedMarker, layer => {
+              this.updateVisibility(mapEvent.newValue.lookAt.bounds.getBoundingBox());
+              this.map.addLayer(layer.setMin(16));
             });
-            var bounds = mapEvent.newValue.lookAt.bounds.ab.W;
-            this.parseData({ high: { lat: bounds[0], lng: bounds[1] }, low: { lat: bounds[6], lng: bounds[7] } });
           });
         }
       };
@@ -80,24 +82,47 @@ export class MapService {
     });
   }
 
-  parseData(bounds: { high: { lat: number, lng: number }, low: { lat: number, lng: number } }) {
+  /**
+   * Parses the data for the current geoJSON file and makes only the markers visible, which should be visible.
+   * @param bounds Contains the coordinates of the top right and bottom left corners of the visible map.
+   */
+  parseData(selectedMarker: string, cb: (layer: any) => void) {
+    var icon = new H.map.Icon(markers.find(marker => marker.name === selectedMarker).icon, {
+      size: {
+        w: 24, h: 24
+      }
+    });
+    var reader = new H.data.geojson.Reader("/assets/geoJSON/" + selectedMarker + ".json", {
+      disableLegacyMode: true,
+      style: (style) => style.setIcon(icon)
+    });
     var geoListener = stateEvent => {
       if (stateEvent.state === 2) {
-        this.reader.removeEventListener("statechange", geoListener);
-        var objects = this.reader.getParsedObjects()[0].getObjects();
-        for (var i = 0; i < objects.length; i++) {
-          var point = objects[i].b;
-          if (point.lat >= bounds.high.lat || point.lng >= bounds.high.lng || point.lat <= bounds.low.lat || point.lng <= bounds.low.lng) {
-            objects[i].setVisibility(false);
-          }
-        };
-        this.map.addLayer(this.reader.getLayer());
+        reader.removeEventListener("statechange", geoListener);
+        this.mapObjects.push(reader.getParsedObjects()[0].getObjects());
+        cb(reader.getLayer());
       }
     };
-    this.reader.addEventListener("statechange", geoListener);
-    this.reader.parse();
+    reader.addEventListener("statechange", geoListener);
+    reader.parse();
   }
 
+  /**
+   * Updates the visibility of all markers on the map.
+   * @param bounds The current view bounds of the map.
+   */
+  updateVisibility(bounds: any) {
+    for (var i = 0; i < this.mapObjects.length; i++) {
+      for (var j = 0; j < this.mapObjects[i].length; j++) {
+        this.mapObjects[i][j].setVisibility(bounds.containsPoint(this.mapObjects[i][j].b));
+      }
+    }
+  }
+
+  /**
+   * Get the user's coordinates, using the gps permission.
+   * @param cb Callback function to return the coordinates asynchronously.
+   */
   fetchCoords(cb: (lat: number, lng: number) => void) {
     if (navigator.geolocation) navigator.geolocation.getCurrentPosition(
       (position: Position) => {
@@ -109,6 +134,9 @@ export class MapService {
     );
   }
 
+  /**
+   * Marks all layers, that are defined in the layers array.
+   */
   markLayers() {
     this.layers.forEach(layer => {
       var layerConfig = this.mapStyle.extractConfig([layer.id]);
