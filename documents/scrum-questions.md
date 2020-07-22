@@ -215,3 +215,17 @@ Since I now know, that the datasets, that I found, can be utilized, I was able t
   
 **What hinders my progress?**  
 I did not have a lot of time today, since I had to go to an appointment with Pete.  
+  
+---  
+## 22.07.2020  
+**What did I do today?**  
+I wrote a lot of documentation this morning, but I hope it's done well now.  
+I made the rendering of the markers dynamic, which really helps to improve the overall performance of the app.  
+  
+**What will I do tomorrow?**  
+I'll try to add info to the markers, since there is some provided by the dataset.  
+This may as well take the whole day, but I'll work some more on the performance, if there is time left.  
+  
+**What hinders my progress?**  
+It's going smoother than ever.  
+A lot of progress today, since I did not encount any errors.

@@ -144,3 +144,17 @@
 >>  
 >> Here the map zoomed out, to show, that only the important ones are loaded  
 >> ![The above image zoomed out](images/progress/markers/view-bounds/parking_car-zoomed_out.png)  
+---  
+---  
+> ## 22.07.2020  
+> ### 13:00  
+> Updated the documentation to what the project is now.  
+> Added much more to the stock analysis.  
+> 
+> ---  
+> ### 18:00  
+> Managed to make the rendering of the markers dynamic, so that it always loads the ones, that are currently visible.  
+> I had to export some code into separate functions, in order to improve efficiency.  
+> I also commented some of the functions, so it's easier to understand.  
+>> Here is an animated GIF, showing the dynamic loading  
+>> ![Animated GIF showing the dynamic loading](images/progress/markers/view-bounds/dynamic_rendering.gif)
