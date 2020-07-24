@@ -168,4 +168,12 @@
 >> ![Icon for the app](images/progress/icon.png)  
 >  
 >> Here is a screenshot of the chart  
->> ![Screenshot of the gantt chart](images/planning/gantt-diagram_2020-07-24.png)
+>> ![Screenshot of the gantt chart](images/planning/gantt-diagram_2020-07-24.png)  
+>   
+> ---  
+> ### 17:00  
+> I tried to implement info bubbles to the markers, which worked, but they were quite buggy.  
+> I tried to make them work correctly until now.  
+> I will try to make them work tomorrow.  
+>> This is a picture of a working info bubble with a sample text  
+>> ![Info bubble with sample text](images/progress/markers/info-bubbles.png)

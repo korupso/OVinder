@@ -228,4 +228,19 @@ This may as well take the whole day, but I'll work some more on the performance,
   
 **What hinders my progress?**  
 It's going smoother than ever.  
-A lot of progress today, since I did not encount any errors.
+A lot of progress today, since I did not encount any errors.  
+  
+---  
+## 24.07.2020  
+**What did I do today?**  
+I created a temporary icon for the app.  
+I also created a gantt chart on the future of the project.  
+In addition to that, I started work on the info bubbles.  
+  
+**What will I do after the weekend?**  
+I will try to implement the info bubbles properly, in order to avoid any inconvenient bugs.  
+I may as well also decide on a color palette.  
+  
+**What hinders my progress?**  
+I had to spend too much time on a single method today, which is why I got a bit confused in the end.  
+Maybe the weekend will help me to make me less confused on Monday.

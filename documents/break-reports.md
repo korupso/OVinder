@@ -47,4 +47,10 @@ I did make a nice break today, since it's my birthday.
 I could not really make a break, since I needed to go to an appointment with Pete.  
   
 ## 22.07.2020  
-I had a nice break today and on time for once.
+I had a nice break today and on time for once.  
+  
+## 23.07.2020  
+I spent my break in the shower and in the train, since I had an important appointment afterwards.  
+  
+## 24.07.2020  
+I did not forget my break, due to my alarm reminding me.
