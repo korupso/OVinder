@@ -1,9 +1,10 @@
 import { Injectable, ElementRef } from '@angular/core';
-import { UtilService } from './util.service';
 import { HttpClient } from '@angular/common/http';
+import { Router } from '@angular/router';
+
+import { UtilService } from './util.service';
 
 import markers from './markers.json';
-import { Router } from '@angular/router';
 
 declare var H: any;
 
@@ -17,6 +18,8 @@ export class MapService {
   mapStyle: any;
   mapObjects = [];
 
+  ui: any;
+
   layers: { id: string, color: string }[] = [];
 
   platform = new H.service.Platform({
@@ -26,7 +29,7 @@ export class MapService {
   });
 
   selectedMarkers: string[] = [
-    "parking_car"
+    "parking_garage"
   ];
 
   constructor(private U: UtilService, private http: HttpClient, private router: Router) { }
@@ -41,7 +44,7 @@ export class MapService {
         this.mapElement.nativeElement,
         defaultLayers.vector.normal.map,
         {
-          zoom: 16,
+          zoom: 17,
           center: { lat: lat, lng: lng }
         }
       );
@@ -65,14 +68,14 @@ export class MapService {
         }
       };
       this.map.addEventListener("mapviewchange", mapListener);
-      var ui = H.ui.UI.createDefault(this.map, defaultLayers);
+      this.ui = H.ui.UI.createDefault(this.map, defaultLayers);
       var mapEvents = new H.mapevents.MapEvents(this.map);
       var behavior = new H.mapevents.Behavior(mapEvents);
 
       var provider = this.map.getBaseLayer().getProvider();
       this.mapStyle = provider.getStyle();
 
-      var changeListener = (evt: any) => {
+      var changeListener = evt => {
         if (this.mapStyle.getState() === H.map.Style.State.READY) {
           this.mapStyle.removeEventListener('change', changeListener);
           this.markLayers();
@@ -99,6 +102,15 @@ export class MapService {
     var geoListener = stateEvent => {
       if (stateEvent.state === 2) {
         reader.removeEventListener("statechange", geoListener);
+        reader.getParsedObjects()[0].getObjects().forEach(object => {
+          object.addEventListener("tap", evt => {
+            var bubble = new H.ui.InfoBubble(evt.target.getGeometry(), {
+              content: evt.target.getData()
+            });
+
+            this.ui.addBubble(bubble);
+          });
+        });
         this.mapObjects.push(reader.getParsedObjects()[0].getObjects());
         cb(reader.getLayer());
       }
@@ -114,6 +126,8 @@ export class MapService {
   updateVisibility(bounds: any) {
     for (var i = 0; i < this.mapObjects.length; i++) {
       for (var j = 0; j < this.mapObjects[i].length; j++) {
+        this.mapObjects[i][j].icon.b = { x: 12, y: 12 };
+        this.mapObjects[i][j].setData('<h3>Test</h3>');
         this.mapObjects[i][j].setVisibility(bounds.containsPoint(this.mapObjects[i][j].b));
       }
     }

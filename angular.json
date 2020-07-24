@@ -37,9 +37,16 @@
               },
               {
                 "input": "src/global.scss"
-              }
+              },
+              "src/assets/here-maps/mapsjs-ui.css"
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/here-maps/mapsjs-core.js",
+              "src/assets/here-maps/mapsjs-data.js",
+              "src/assets/here-maps/mapsjs-mapevents.js",
+              "src/assets/here-maps/mapsjs-service.js",
+              "src/assets/here-maps/mapsjs-ui.js"
+            ]
           },
           "configurations": {
             "production": {
