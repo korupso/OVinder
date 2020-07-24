@@ -157,4 +157,15 @@
 > I had to export some code into separate functions, in order to improve efficiency.  
 > I also commented some of the functions, so it's easier to understand.  
 >> Here is an animated GIF, showing the dynamic loading  
->> ![Animated GIF showing the dynamic loading](images/progress/markers/view-bounds/dynamic_rendering.gif)
+>> ![Animated GIF showing the dynamic loading](images/progress/markers/view-bounds/dynamic_rendering.gif)  
+---  
+---  
+> ## 24.07.2020  
+> ### 11:45  
+> I tried to make an icon for the app, but I'm not quite sure if I like it.  
+> I also made a gantt chart for the forseeable future.  
+>> Here is the icon  
+>> ![Icon for the app](images/progress/icon.png)  
+>  
+>> Here is a screenshot of the chart  
+>> ![Screenshot of the gantt chart](images/planning/gantt-diagram_2020-07-24.png)

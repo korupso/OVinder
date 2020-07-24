@@ -94,4 +94,13 @@
 > ## 22.07.2020  
 > ### 3.5/5  
 > Today went not well, but not bad either.  
-> I woke up, when I had to wake up, but I was not as awake and alert, as I should've been.
+> I woke up, when I had to wake up, but I was not as awake and alert, as I should've been.  
+  
+> ## 23.07.2020  
+> ### 3/5  
+> I did not wake up very well today, but I managed to be ready on time.  
+  
+> ## 24.07.2020  
+> ### 3/5  
+> It was not very easy to wake up today, but it was not particularily hard.  
+> I might change my alarm tone again.
