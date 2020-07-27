@@ -38,6 +38,7 @@ export class MapService {
    * This function is called, whenever the map needs a reset.
    */
   resetMap() {
+    var start = new Date().getTime();
     this.fetchCoords((lat, lng) => {
       let defaultLayers = this.platform.createDefaultLayers();
       this.map = new H.Map(
@@ -56,30 +57,10 @@ export class MapService {
       };
       this.map.addEventListener("mapviewchangeend", mapViewListener);
 
-      /*var boundingBoxValidationObject = {
-        aa: -180,
-        da: 180,
-        ia: 90,
-        la: -90
-      };
-      Object.entries(this.map.getViewModel().getLookAtData().bounds.getBoundingBox()).filter(entry => {
-        if (boundingBoxValidationObject[entry[0]]) {
-          if (boundingBoxValidationObject[entry[0]] === entry[1]) {
-            return false;
-          }
-        }
-        
-      });
-      do {
-        setTimeout(() => { }, 50);
-      } while (this.map.getViewModel().getLookAtData().bounds.getBoundingBox() === { a: null, aa: -180, b: null, c: null, da: 180, ia: 90, la: -90 });
-      console.log(this.map.getViewModel().getLookAtData().bounds.getBoundingBox());*/
-
       var mapListener = mapEvent => {
         this.map.removeEventListener("mapviewchangeend", mapListener);
         this.selectedMarkers.forEach(selectedMarker => {
           this.parseData(selectedMarker, layer => {
-            this.updateVisibility(this.map.getViewModel().getLookAtData().bounds.getBoundingBox());
             this.map.addLayer(layer.setMin(16));
           });
         });
@@ -100,6 +81,7 @@ export class MapService {
       };
       this.mapStyle.addEventListener('change', changeListener);
     });
+    console.log("resetMap", new Date().getTime() - start);
   }
 
   /**
@@ -107,7 +89,9 @@ export class MapService {
    * @param bounds Contains the coordinates of the top right and bottom left corners of the visible map.
    */
   parseData(selectedMarker: string, cb: (layer: any) => void) {
-    var icon = new H.map.Icon(markers.find(marker => marker.name === selectedMarker).icon, {
+    var start = new Date().getTime();
+    var marker = markers.find(marker => marker.name === selectedMarker);
+    var icon = new H.map.Icon(marker.icon, {
       size: {
         w: 24,
         h: 24
@@ -119,16 +103,21 @@ export class MapService {
     });
     var reader = new H.data.geojson.Reader("/assets/geoJSON/" + selectedMarker + ".json", {
       disableLegacyMode: true,
-      style: marker => marker.setIcon(icon)
+      style: markerObj => markerObj.setIcon(icon)
     });
     var geoListener = stateEvent => {
       if (stateEvent.state === 2) {
         reader.removeEventListener("statechange", geoListener);
         reader.getParsedObjects()[0].getObjects().forEach(object => {
           object.addEventListener("tap", evt => {
+            this.map.setCenter(object.getGeometry(), true);
+            this.ui.getBubbles().forEach(bubble => this.ui.removeBubble(bubble));
+
             var bubble = new H.ui.InfoBubble(evt.target.getGeometry(), {
-              content: evt.target.getData().bubble
+              content: this.infoToHTML(object, marker.info)
             });
+
+            console.log(bubble);
 
             this.ui.addBubble(bubble);
           });
@@ -139,19 +128,57 @@ export class MapService {
     };
     reader.addEventListener("statechange", geoListener);
     reader.parse();
+    console.log("parseData", new Date().getTime() - start);
+  }
+
+  infoToHTML(marker, info): string {
+    var start = new Date().getTime();
+    var html = "";
+
+    if (info.name) {
+      html += "<h3>";
+      info.name.forEach(name => html += marker.data[name] + " ");
+      html = html.slice(0, html.length - 1) + "</h3><br>";
+    }
+
+    if (info.parking_spaces) {
+      html += "<span style=\"color:#444444\">";
+      info.parking_spaces.forEach(parking_spaces => html += parking_spaces + ": " + marker.data[parking_spaces] + "<br>");
+      html += "</span><br>";
+    }
+
+    if (info.misc) {
+      html += "<span style=\"color:#333333\">";
+      info.misc.forEach(misc => html += misc + ": " + marker.data[misc] + "<br>");
+      html = html.slice(0, html.length - 4) + "</span><br>";
+    }
+
+    if (info.links) {
+      info.links.forEach(link => html += "<a href=\"" + marker.data[link] + "\">" + link + "</a><br>");
+    }
+
+    html = html.slice(0, html.length - 4);
+
+    console.log("infoToHTML", new Date().getTime() - start);
+    return html;
   }
 
   /**
    * Updates the visibility of all markers on the map.
    * @param bounds The current view bounds of the map.
    */
-  updateVisibility = (bounds: any) => this.mapObjects.forEach(mapObject => mapObject.objects.forEach(obj => obj.setVisibility(bounds.containsPoint(obj.b))));
+  updateVisibility = (bounds: any) => {
+    var start = new Date().getTime();
+    this.mapObjects.forEach(mapObject => mapObject.objects.forEach(obj => obj.setVisibility(bounds.containsPoint(obj.b))));
+    console.log("updateVisibility", new Date().getTime() - start);
+  }
 
   /**
    * Get the user's coordinates, using the gps permission.
    * @param cb Callback function to return the coordinates asynchronously.
    */
   fetchCoords(cb: (lat: number, lng: number) => void) {
+    var start = new Date().getTime();
     if (navigator.geolocation) navigator.geolocation.getCurrentPosition(
       (position: Position) => {
         cb(47.37666, 8.5389);
@@ -160,17 +187,20 @@ export class MapService {
       (error: PositionError) => console.log(error),
       { timeout: 30000, enableHighAccuracy: true, maximumAge: 75000 }
     );
+    console.log("fetchCoords", new Date().getTime() - start);
   }
 
   /**
    * Marks all layers, that are defined in the layers array.
    */
   markLayers() {
+    var start = new Date().getTime();
     this.layers.forEach(layer => {
       var layerConfig = this.mapStyle.extractConfig([layer.id]);
       var draw = this.U.accessProperty(layer.id, layerConfig.layers).draw;
       draw[draw["polygons"] ? "polygons" : "lines"].color = layer.color;
       this.mapStyle.mergeConfig(layerConfig);
     });
+    console.log("markLayers", new Date().getTime() - start);
   }
 }

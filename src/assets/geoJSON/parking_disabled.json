@@ -12,11 +12,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Ueberlandstrasse 460",
+				"Adresse": "Ueberlandstrasse 460",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "205567",
 				"orientierung": null
 			}
@@ -31,11 +31,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Ueberlandstrasse 460",
+				"Adresse": "Ueberlandstrasse 460",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "205568",
 				"orientierung": null
 			}
@@ -50,11 +50,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Hardstrasse 210",
+				"Adresse": "Hardstrasse 210",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "205707",
 				"orientierung": null
 			}
@@ -69,11 +69,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Querstrasse 16",
+				"Adresse": "Querstrasse 16",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "192656",
 				"orientierung": null
 			}
@@ -88,11 +88,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Querstrasse 16",
+				"Adresse": "Querstrasse 16",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "192657",
 				"orientierung": null
 			}
@@ -107,11 +107,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Greifenseestrasse 10a",
+				"Adresse": "Greifenseestrasse 10a",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "192659",
 				"orientierung": null
 			}
@@ -126,11 +126,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Zwyssigstrasse 2",
+				"Adresse": "Zwyssigstrasse 2",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "192662",
 				"orientierung": null
 			}
@@ -145,11 +145,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Bristenstrasse 17",
+				"Adresse": "Bristenstrasse 17",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "192664",
 				"orientierung": null
 			}
@@ -164,11 +164,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Mühlebachstrasse 137",
+				"Adresse": "Mühlebachstrasse 137",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "192666",
 				"orientierung": null
 			}
@@ -183,11 +183,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Wilfriedstrasse 5",
+				"Adresse": "Wilfriedstrasse 5",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "192668",
 				"orientierung": null
 			}
@@ -202,11 +202,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Friesenberghalde 8",
+				"Adresse": "Friesenberghalde 8",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "192672",
 				"orientierung": null
 			}
@@ -221,11 +221,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Friesenberghalde 3",
+				"Adresse": "Friesenberghalde 3",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "192674",
 				"orientierung": null
 			}
@@ -240,11 +240,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Uetlibergstrasse 25",
+				"Adresse": "Uetlibergstrasse 25",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "192676",
 				"orientierung": null
 			}
@@ -259,11 +259,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Zurlindenstrasse 302",
+				"Adresse": "Zurlindenstrasse 302",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "192678",
 				"orientierung": null
 			}
@@ -278,11 +278,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Regensbergstrasse 262",
+				"Adresse": "Regensbergstrasse 262",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "192466",
 				"orientierung": null
 			}
@@ -297,11 +297,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Regensbergstrasse 123",
+				"Adresse": "Regensbergstrasse 123",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "192467",
 				"orientierung": null
 			}
@@ -316,11 +316,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Dialogweg 11",
+				"Adresse": "Dialogweg 11",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "1",
+				"Gebührenpflichtig": "1",
 				"objectid": "205521",
 				"orientierung": null
 			}
@@ -335,11 +335,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Schaffhauserstrasse 465",
+				"Adresse": "Schaffhauserstrasse 465",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "175893",
 				"orientierung": null
 			}
@@ -354,11 +354,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Lagerstrasse 121",
+				"Adresse": "Lagerstrasse 121",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "205944",
 				"orientierung": null
 			}
@@ -373,11 +373,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Stampfenbrunnenstrasse 43",
+				"Adresse": "Stampfenbrunnenstrasse 43",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "19883",
 				"orientierung": null
 			}
@@ -392,11 +392,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Genossenschaftsstrasse 16",
+				"Adresse": "Genossenschaftsstrasse 16",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "205466",
 				"orientierung": null
 			}
@@ -411,11 +411,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Waidbadstrasse 53",
+				"Adresse": "Waidbadstrasse 53",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "205990",
 				"orientierung": null
 			}
@@ -430,11 +430,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Dialogweg 3",
+				"Adresse": "Dialogweg 3",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "205458",
 				"orientierung": null
 			}
@@ -449,11 +449,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Genossenschaftsstrasse 16a",
+				"Adresse": "Genossenschaftsstrasse 16a",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "205467",
 				"orientierung": null
 			}
@@ -468,11 +468,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Genossenschaftsstrasse 16a",
+				"Adresse": "Genossenschaftsstrasse 16a",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "205468",
 				"orientierung": null
 			}
@@ -487,11 +487,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Birmensdorferstrasse 497c",
+				"Adresse": "Birmensdorferstrasse 497c",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "206148",
 				"orientierung": null
 			}
@@ -506,11 +506,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Im Heuried 74",
+				"Adresse": "Im Heuried 74",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "206179",
 				"orientierung": null
 			}
@@ -525,11 +525,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Hagenholzstrasse 108a",
+				"Adresse": "Hagenholzstrasse 108a",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "1",
+				"Gebührenpflichtig": "1",
 				"objectid": "205509",
 				"orientierung": null
 			}
@@ -544,11 +544,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Hohlstrasse 552",
+				"Adresse": "Hohlstrasse 552",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "171678",
 				"orientierung": null
 			}
@@ -563,11 +563,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Brunnenhofstrasse 9",
+				"Adresse": "Brunnenhofstrasse 9",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "206099",
 				"orientierung": null
 			}
@@ -582,11 +582,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Schweigmatt 50",
+				"Adresse": "Schweigmatt 50",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "175354",
 				"orientierung": null
 			}
@@ -601,11 +601,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Manessestrasse 1",
+				"Adresse": "Manessestrasse 1",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "1",
+				"Gebührenpflichtig": "1",
 				"objectid": "172429",
 				"orientierung": null
 			}
@@ -620,11 +620,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Fronwaldstrasse 94",
+				"Adresse": "Fronwaldstrasse 94",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "173058",
 				"orientierung": null
 			}
@@ -639,11 +639,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Fronwaldstrasse 94",
+				"Adresse": "Fronwaldstrasse 94",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "173060",
 				"orientierung": null
 			}
@@ -658,11 +658,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Mythenquai 88v",
+				"Adresse": "Mythenquai 88v",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "1",
+				"Gebührenpflichtig": "1",
 				"objectid": "197635",
 				"orientierung": null
 			}
@@ -677,11 +677,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Mythenquai 88v",
+				"Adresse": "Mythenquai 88v",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "1",
+				"Gebührenpflichtig": "1",
 				"objectid": "197636",
 				"orientierung": null
 			}
@@ -696,11 +696,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Bachmannweg 1a",
+				"Adresse": "Bachmannweg 1a",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "205971",
 				"orientierung": null
 			}
@@ -715,11 +715,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Hohlstrasse 559",
+				"Adresse": "Hohlstrasse 559",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "1",
+				"Gebührenpflichtig": "1",
 				"objectid": "199303",
 				"orientierung": null
 			}
@@ -734,11 +734,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Schanzackerstrasse 21",
+				"Adresse": "Schanzackerstrasse 21",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "197038",
 				"orientierung": null
 			}
@@ -753,11 +753,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Hardstrasse 227",
+				"Adresse": "Hardstrasse 227",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "1",
+				"Gebührenpflichtig": "1",
 				"objectid": "199536",
 				"orientierung": null
 			}
@@ -772,11 +772,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Hardstrasse 227",
+				"Adresse": "Hardstrasse 227",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "1",
+				"Gebührenpflichtig": "1",
 				"objectid": "199537",
 				"orientierung": null
 			}
@@ -791,11 +791,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Vulkanstrasse 108b",
+				"Adresse": "Vulkanstrasse 108b",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "1",
+				"Gebührenpflichtig": "1",
 				"objectid": "206252",
 				"orientierung": null
 			}
@@ -810,11 +810,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Ueberlandstrasse 446",
+				"Adresse": "Ueberlandstrasse 446",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "199684",
 				"orientierung": null
 			}
@@ -829,11 +829,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Ueberlandstrasse 446",
+				"Adresse": "Ueberlandstrasse 446",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "199685",
 				"orientierung": null
 			}
@@ -848,11 +848,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Hohlstrasse 552",
+				"Adresse": "Hohlstrasse 552",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "194961",
 				"orientierung": null
 			}
@@ -867,11 +867,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Molkenstrasse 5",
+				"Adresse": "Molkenstrasse 5",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "1",
+				"Gebührenpflichtig": "1",
 				"objectid": "198707",
 				"orientierung": null
 			}
@@ -886,11 +886,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Flüelastrasse 28a",
+				"Adresse": "Flüelastrasse 28a",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "206488",
 				"orientierung": null
 			}
@@ -905,11 +905,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Flüelastrasse 28a",
+				"Adresse": "Flüelastrasse 28a",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "206489",
 				"orientierung": null
 			}
@@ -924,11 +924,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Kasernenstrasse 100",
+				"Adresse": "Kasernenstrasse 100",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "206496",
 				"orientierung": null
 			}
@@ -943,11 +943,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Kasernenstrasse 101",
+				"Adresse": "Kasernenstrasse 101",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "206497",
 				"orientierung": null
 			}
@@ -962,11 +962,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Bürkliplatz 12",
+				"Adresse": "Bürkliplatz 12",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "191709",
 				"orientierung": null
 			}
@@ -981,11 +981,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Gerechtigkeitsgasse 31",
+				"Adresse": "Gerechtigkeitsgasse 31",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "191711",
 				"orientierung": null
 			}
@@ -1000,11 +1000,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Claridenstrasse 2",
+				"Adresse": "Claridenstrasse 2",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "191715",
 				"orientierung": null
 			}
@@ -1019,11 +1019,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Bahnhofquai 3a",
+				"Adresse": "Bahnhofquai 3a",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "191720",
 				"orientierung": null
 			}
@@ -1038,11 +1038,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Tessinerplatz 11",
+				"Adresse": "Tessinerplatz 11",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "191722",
 				"orientierung": null
 			}
@@ -1057,11 +1057,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Balberstrasse 47",
+				"Adresse": "Balberstrasse 47",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "191724",
 				"orientierung": null
 			}
@@ -1076,11 +1076,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Engimattstrasse 17",
+				"Adresse": "Engimattstrasse 17",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "191726",
 				"orientierung": null
 			}
@@ -1095,11 +1095,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Hüslibachstrasse 98",
+				"Adresse": "Hüslibachstrasse 98",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "191728",
 				"orientierung": null
 			}
@@ -1114,11 +1114,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Zürichbergstrasse 175a",
+				"Adresse": "Zürichbergstrasse 175a",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "187071",
 				"orientierung": null
 			}
@@ -1133,11 +1133,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Zürichbergstrasse 175a",
+				"Adresse": "Zürichbergstrasse 175a",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "187073",
 				"orientierung": null
 			}
@@ -1152,11 +1152,11 @@
 				]
 			},
 			"properties": {
-				"adresse": null,
+				"Adresse": null,
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "187076",
 				"orientierung": null
 			}
@@ -1171,11 +1171,11 @@
 				]
 			},
 			"properties": {
-				"adresse": null,
+				"Adresse": null,
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "187078",
 				"orientierung": null
 			}
@@ -1190,11 +1190,11 @@
 				]
 			},
 			"properties": {
-				"adresse": null,
+				"Adresse": null,
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "187081",
 				"orientierung": null
 			}
@@ -1209,11 +1209,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Mainaustrasse 24",
+				"Adresse": "Mainaustrasse 24",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "187084",
 				"orientierung": null
 			}
@@ -1228,11 +1228,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Rämistrasse 100",
+				"Adresse": "Rämistrasse 100",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "188742",
 				"orientierung": null
 			}
@@ -1247,11 +1247,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Schimmelstrasse 7",
+				"Adresse": "Schimmelstrasse 7",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "187085",
 				"orientierung": null
 			}
@@ -1266,11 +1266,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Idaplatz 9",
+				"Adresse": "Idaplatz 9",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "187086",
 				"orientierung": null
 			}
@@ -1285,11 +1285,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Kalkbreitestrasse 78",
+				"Adresse": "Kalkbreitestrasse 78",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "187088",
 				"orientierung": null
 			}
@@ -1304,11 +1304,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Idaplatz 9",
+				"Adresse": "Idaplatz 9",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "187089",
 				"orientierung": null
 			}
@@ -1323,11 +1323,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Mythenquai 60",
+				"Adresse": "Mythenquai 60",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "187090",
 				"orientierung": null
 			}
@@ -1342,11 +1342,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Mythenquai 60",
+				"Adresse": "Mythenquai 60",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "187091",
 				"orientierung": null
 			}
@@ -1361,11 +1361,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Freiestrasse 55",
+				"Adresse": "Freiestrasse 55",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "187092",
 				"orientierung": null
 			}
@@ -1380,11 +1380,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Jenatschstrasse 3",
+				"Adresse": "Jenatschstrasse 3",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "187093",
 				"orientierung": null
 			}
@@ -1399,11 +1399,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Russenweg 39",
+				"Adresse": "Russenweg 39",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "187095",
 				"orientierung": null
 			}
@@ -1418,11 +1418,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Zürichbergstrasse 221",
+				"Adresse": "Zürichbergstrasse 221",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "187096",
 				"orientierung": null
 			}
@@ -1437,11 +1437,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Zürichbergstrasse 221",
+				"Adresse": "Zürichbergstrasse 221",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "187097",
 				"orientierung": null
 			}
@@ -1456,11 +1456,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Gartenstrasse 11",
+				"Adresse": "Gartenstrasse 11",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "187098",
 				"orientierung": null
 			}
@@ -1475,11 +1475,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Stauffacherstrasse 26",
+				"Adresse": "Stauffacherstrasse 26",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "187099",
 				"orientierung": null
 			}
@@ -1494,11 +1494,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Wachtelstrasse 17",
+				"Adresse": "Wachtelstrasse 17",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "187101",
 				"orientierung": null
 			}
@@ -1513,11 +1513,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Neugasse 80",
+				"Adresse": "Neugasse 80",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "187103",
 				"orientierung": null
 			}
@@ -1532,11 +1532,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Rämistrasse 100",
+				"Adresse": "Rämistrasse 100",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "188744",
 				"orientierung": null
 			}
@@ -1551,11 +1551,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Saatlenstrasse 240",
+				"Adresse": "Saatlenstrasse 240",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "191914",
 				"orientierung": null
 			}
@@ -1570,11 +1570,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Gorwiden 2",
+				"Adresse": "Gorwiden 2",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "191917",
 				"orientierung": null
 			}
@@ -1589,11 +1589,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Mythenquai 75",
+				"Adresse": "Mythenquai 75",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "191924",
 				"orientierung": null
 			}
@@ -1608,11 +1608,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Mythenquai 75",
+				"Adresse": "Mythenquai 75",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "191926",
 				"orientierung": null
 			}
@@ -1627,11 +1627,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Zürichbergstrasse 196",
+				"Adresse": "Zürichbergstrasse 196",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "191928",
 				"orientierung": null
 			}
@@ -1646,11 +1646,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Zürichbergstrasse 219",
+				"Adresse": "Zürichbergstrasse 219",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "191930",
 				"orientierung": null
 			}
@@ -1665,11 +1665,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Zürichbergstrasse 196",
+				"Adresse": "Zürichbergstrasse 196",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "191933",
 				"orientierung": null
 			}
@@ -1684,11 +1684,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Zürichbergstrasse 219",
+				"Adresse": "Zürichbergstrasse 219",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "191934",
 				"orientierung": null
 			}
@@ -1703,11 +1703,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Zürichbergstrasse 245",
+				"Adresse": "Zürichbergstrasse 245",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "191936",
 				"orientierung": null
 			}
@@ -1722,11 +1722,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Zürichbergstrasse 245",
+				"Adresse": "Zürichbergstrasse 245",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "191938",
 				"orientierung": null
 			}
@@ -1741,11 +1741,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Zürichbergstrasse 245",
+				"Adresse": "Zürichbergstrasse 245",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "191940",
 				"orientierung": null
 			}
@@ -1760,11 +1760,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Stadthausquai 17",
+				"Adresse": "Stadthausquai 17",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "191945",
 				"orientierung": null
 			}
@@ -1779,11 +1779,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Herzogenmühlestrasse 5",
+				"Adresse": "Herzogenmühlestrasse 5",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "191947",
 				"orientierung": null
 			}
@@ -1798,11 +1798,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Limmatquai 7",
+				"Adresse": "Limmatquai 7",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "191949",
 				"orientierung": null
 			}
@@ -1817,11 +1817,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Ausstellungsstrasse 105",
+				"Adresse": "Ausstellungsstrasse 105",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "191951",
 				"orientierung": null
 			}
@@ -1836,11 +1836,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Karl-Bürkli-Strasse 11",
+				"Adresse": "Karl-Bürkli-Strasse 11",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "191953",
 				"orientierung": null
 			}
@@ -1855,11 +1855,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Technoparkstrasse 7",
+				"Adresse": "Technoparkstrasse 7",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "191955",
 				"orientierung": null
 			}
@@ -1874,11 +1874,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Nordstrasse 103",
+				"Adresse": "Nordstrasse 103",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "191960",
 				"orientierung": null
 			}
@@ -1893,11 +1893,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Wildbachstrasse 80",
+				"Adresse": "Wildbachstrasse 80",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "191962",
 				"orientierung": null
 			}
@@ -1912,11 +1912,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Zentralstrasse 74",
+				"Adresse": "Zentralstrasse 74",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "191964",
 				"orientierung": null
 			}
@@ -1931,11 +1931,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Allmendstrasse 2",
+				"Adresse": "Allmendstrasse 2",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "191966",
 				"orientierung": null
 			}
@@ -1950,11 +1950,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Wehntalerstrasse 535",
+				"Adresse": "Wehntalerstrasse 535",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "187837",
 				"orientierung": null
 			}
@@ -1969,11 +1969,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Kirchenackerweg 30",
+				"Adresse": "Kirchenackerweg 30",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "187839",
 				"orientierung": null
 			}
@@ -1988,11 +1988,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Rainstrasse 6",
+				"Adresse": "Rainstrasse 6",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "187841",
 				"orientierung": null
 			}
@@ -2007,11 +2007,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Zentralstrasse 153",
+				"Adresse": "Zentralstrasse 153",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "187843",
 				"orientierung": null
 			}
@@ -2026,11 +2026,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Leutschenbachstrasse 52",
+				"Adresse": "Leutschenbachstrasse 52",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "187845",
 				"orientierung": null
 			}
@@ -2045,11 +2045,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Katzenbachstrasse 16",
+				"Adresse": "Katzenbachstrasse 16",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "187847",
 				"orientierung": null
 			}
@@ -2064,11 +2064,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Gubelstrasse 36",
+				"Adresse": "Gubelstrasse 36",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "1",
+				"Gebührenpflichtig": "1",
 				"objectid": "187905",
 				"orientierung": null
 			}
@@ -2083,11 +2083,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Letzigraben 35",
+				"Adresse": "Letzigraben 35",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "206130",
 				"orientierung": null
 			}
@@ -2102,11 +2102,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Dangelstrasse 24",
+				"Adresse": "Dangelstrasse 24",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "205998",
 				"orientierung": null
 			}
@@ -2121,11 +2121,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Gloriastrasse 7",
+				"Adresse": "Gloriastrasse 7",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "186368",
 				"orientierung": null
 			}
@@ -2140,11 +2140,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Hardstrasse 245",
+				"Adresse": "Hardstrasse 245",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "188040",
 				"orientierung": null
 			}
@@ -2159,11 +2159,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Forchstrasse 340",
+				"Adresse": "Forchstrasse 340",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "206455",
 				"orientierung": null
 			}
@@ -2178,11 +2178,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Forchstrasse 340",
+				"Adresse": "Forchstrasse 340",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "206456",
 				"orientierung": null
 			}
@@ -2197,11 +2197,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Forchstrasse 336",
+				"Adresse": "Forchstrasse 336",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "206457",
 				"orientierung": null
 			}
@@ -2216,11 +2216,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Forchstrasse 336",
+				"Adresse": "Forchstrasse 336",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "206458",
 				"orientierung": null
 			}
@@ -2235,11 +2235,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Forchstrasse 336",
+				"Adresse": "Forchstrasse 336",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "206459",
 				"orientierung": null
 			}
@@ -2254,11 +2254,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Am Suteracher 44",
+				"Adresse": "Am Suteracher 44",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "206407",
 				"orientierung": null
 			}
@@ -2273,11 +2273,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Hardhof 1",
+				"Adresse": "Hardhof 1",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "1",
+				"Gebührenpflichtig": "1",
 				"objectid": "206409",
 				"orientierung": null
 			}
@@ -2292,11 +2292,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Kienastenwiesweg 2",
+				"Adresse": "Kienastenwiesweg 2",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "188286",
 				"orientierung": null
 			}
@@ -2311,11 +2311,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Dialogweg 3",
+				"Adresse": "Dialogweg 3",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "205459",
 				"orientierung": null
 			}
@@ -2330,11 +2330,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Dialogweg 3",
+				"Adresse": "Dialogweg 3",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "205460",
 				"orientierung": null
 			}
@@ -2349,11 +2349,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Maschinenstrasse 13",
+				"Adresse": "Maschinenstrasse 13",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "206439",
 				"orientierung": null
 			}
@@ -2368,11 +2368,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Emil-Klöti-Strasse 23",
+				"Adresse": "Emil-Klöti-Strasse 23",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "203838",
 				"orientierung": null
 			}
@@ -2387,11 +2387,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Gloriastrasse 31",
+				"Adresse": "Gloriastrasse 31",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "203843",
 				"orientierung": null
 			}
@@ -2406,11 +2406,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Loogartenstrasse 31b",
+				"Adresse": "Loogartenstrasse 31b",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "203849",
 				"orientierung": null
 			}
@@ -2425,11 +2425,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Birmensdorferstrasse 489",
+				"Adresse": "Birmensdorferstrasse 489",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "203850",
 				"orientierung": null
 			}
@@ -2444,11 +2444,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Bernerstrasse 317",
+				"Adresse": "Bernerstrasse 317",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "1",
+				"Gebührenpflichtig": "1",
 				"objectid": "205045",
 				"orientierung": null
 			}
@@ -2463,11 +2463,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Hardturmstrasse 130",
+				"Adresse": "Hardturmstrasse 130",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "203073",
 				"orientierung": null
 			}
@@ -2482,11 +2482,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Flurstrasse 130",
+				"Adresse": "Flurstrasse 130",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "200835",
 				"orientierung": null
 			}
@@ -2501,11 +2501,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Flurstrasse 130",
+				"Adresse": "Flurstrasse 130",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "200836",
 				"orientierung": null
 			}
@@ -2520,11 +2520,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Gallusstrasse 14",
+				"Adresse": "Gallusstrasse 14",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "200854",
 				"orientierung": null
 			}
@@ -2539,11 +2539,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Birmensdorferstrasse 495a",
+				"Adresse": "Birmensdorferstrasse 495a",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "200926",
 				"orientierung": null
 			}
@@ -2558,11 +2558,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Badenerstrasse 424",
+				"Adresse": "Badenerstrasse 424",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "200928",
 				"orientierung": null
 			}
@@ -2577,11 +2577,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Spelteriniweg 7",
+				"Adresse": "Spelteriniweg 7",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "200975",
 				"orientierung": null
 			}
@@ -2596,11 +2596,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Limmattalstrasse 371",
+				"Adresse": "Limmattalstrasse 371",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "200977",
 				"orientierung": null
 			}
@@ -2615,11 +2615,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Brunnwiesenstrasse 57",
+				"Adresse": "Brunnwiesenstrasse 57",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "204094",
 				"orientierung": null
 			}
@@ -2634,11 +2634,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Albisriederstrasse 31a",
+				"Adresse": "Albisriederstrasse 31a",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "204106",
 				"orientierung": null
 			}
@@ -2653,11 +2653,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Kirchenackerweg 34",
+				"Adresse": "Kirchenackerweg 34",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "204109",
 				"orientierung": null
 			}
@@ -2672,11 +2672,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Hagenholzstrasse 106a",
+				"Adresse": "Hagenholzstrasse 106a",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "201047",
 				"orientierung": null
 			}
@@ -2691,11 +2691,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Meierhofplatz 2",
+				"Adresse": "Meierhofplatz 2",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "201059",
 				"orientierung": null
 			}
@@ -2710,11 +2710,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Toblerstrasse 91a",
+				"Adresse": "Toblerstrasse 91a",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "203353",
 				"orientierung": null
 			}
@@ -2729,11 +2729,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Obsthaldenstrasse 163",
+				"Adresse": "Obsthaldenstrasse 163",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "206486",
 				"orientierung": null
 			}
@@ -2748,11 +2748,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Gleisbogen 60",
+				"Adresse": "Gleisbogen 60",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "1",
+				"Gebührenpflichtig": "1",
 				"objectid": "201140",
 				"orientierung": null
 			}
@@ -2767,11 +2767,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Eggbühlstrasse 28",
+				"Adresse": "Eggbühlstrasse 28",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "201158",
 				"orientierung": null
 			}
@@ -2786,11 +2786,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Konrad-Ilg-Strasse 13",
+				"Adresse": "Konrad-Ilg-Strasse 13",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "206055",
 				"orientierung": null
 			}
@@ -2805,11 +2805,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Letzigraben 40",
+				"Adresse": "Letzigraben 40",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "206129",
 				"orientierung": null
 			}
@@ -2824,11 +2824,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Feldblumenstrasse 7",
+				"Adresse": "Feldblumenstrasse 7",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "204352",
 				"orientierung": null
 			}
@@ -2843,11 +2843,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Uetlibergstrasse 287",
+				"Adresse": "Uetlibergstrasse 287",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "204359",
 				"orientierung": null
 			}
@@ -2862,11 +2862,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Binzallee 6",
+				"Adresse": "Binzallee 6",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "1",
+				"Gebührenpflichtig": "1",
 				"objectid": "201205",
 				"orientierung": null
 			}
@@ -2881,11 +2881,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Clausiusstrasse 9",
+				"Adresse": "Clausiusstrasse 9",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "201219",
 				"orientierung": null
 			}
@@ -2900,11 +2900,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Spöndlistrasse 20c",
+				"Adresse": "Spöndlistrasse 20c",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "201220",
 				"orientierung": null
 			}
@@ -2919,11 +2919,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Frauenklinikstrasse 10",
+				"Adresse": "Frauenklinikstrasse 10",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "201224",
 				"orientierung": null
 			}
@@ -2938,11 +2938,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Limmattalstrasse 150",
+				"Adresse": "Limmattalstrasse 150",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "201284",
 				"orientierung": null
 			}
@@ -2957,11 +2957,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Limmattalstrasse 150",
+				"Adresse": "Limmattalstrasse 150",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "201286",
 				"orientierung": null
 			}
@@ -2976,11 +2976,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Dachslernstrasse 35",
+				"Adresse": "Dachslernstrasse 35",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "203592",
 				"orientierung": null
 			}
@@ -2995,11 +2995,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Auguste-Piccard-Hof 5",
+				"Adresse": "Auguste-Piccard-Hof 5",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "203597",
 				"orientierung": null
 			}
@@ -3014,11 +3014,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Promenadengasse 19",
+				"Adresse": "Promenadengasse 19",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "203603",
 				"orientierung": null
 			}
@@ -3033,11 +3033,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Im Hau 50a",
+				"Adresse": "Im Hau 50a",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "204429",
 				"orientierung": null
 			}
@@ -3052,11 +3052,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Gsteigstrasse 9",
+				"Adresse": "Gsteigstrasse 9",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "201372",
 				"orientierung": null
 			}
@@ -3071,11 +3071,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Hagenholzstrasse 20",
+				"Adresse": "Hagenholzstrasse 20",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "201383",
 				"orientierung": null
 			}
@@ -3090,11 +3090,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Grubenstrasse 32a",
+				"Adresse": "Grubenstrasse 32a",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "204564",
 				"orientierung": null
 			}
@@ -3109,11 +3109,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Hohlstrasse 554",
+				"Adresse": "Hohlstrasse 554",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "203793",
 				"orientierung": null
 			}
@@ -3128,11 +3128,11 @@
 				]
 			},
 			"properties": {
-				"adresse": null,
+				"Adresse": null,
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "1",
+				"Gebührenpflichtig": "1",
 				"objectid": "204638",
 				"orientierung": null
 			}
@@ -3147,11 +3147,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Museumstrasse 1",
+				"Adresse": "Museumstrasse 1",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "199902",
 				"orientierung": null
 			}
@@ -3166,11 +3166,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Gloriastrasse 7",
+				"Adresse": "Gloriastrasse 7",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "199976",
 				"orientierung": null
 			}
@@ -3185,11 +3185,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Hardturmstrasse 106",
+				"Adresse": "Hardturmstrasse 106",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "201518",
 				"orientierung": null
 			}
@@ -3204,11 +3204,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Wallisellenstrasse 96",
+				"Adresse": "Wallisellenstrasse 96",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "1",
+				"Gebührenpflichtig": "1",
 				"objectid": "201558",
 				"orientierung": null
 			}
@@ -3223,11 +3223,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Wallisellenstrasse 100",
+				"Adresse": "Wallisellenstrasse 100",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "1",
+				"Gebührenpflichtig": "1",
 				"objectid": "202310",
 				"orientierung": null
 			}
@@ -3242,11 +3242,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Marie-Heim-Vögtlin-Weg 60",
+				"Adresse": "Marie-Heim-Vögtlin-Weg 60",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "202322",
 				"orientierung": null
 			}
@@ -3261,11 +3261,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Stolzestrasse 9",
+				"Adresse": "Stolzestrasse 9",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "202464",
 				"orientierung": null
 			}
@@ -3280,11 +3280,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Vogelsangstrasse 18",
+				"Adresse": "Vogelsangstrasse 18",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "202466",
 				"orientierung": null
 			}
@@ -3299,11 +3299,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Hardstrasse 301",
+				"Adresse": "Hardstrasse 301",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "202468",
 				"orientierung": null
 			}
@@ -3318,11 +3318,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Hardstrasse 301",
+				"Adresse": "Hardstrasse 301",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "202470",
 				"orientierung": null
 			}
@@ -3337,11 +3337,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Degenriedstrasse 135",
+				"Adresse": "Degenriedstrasse 135",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "202473",
 				"orientierung": null
 			}
@@ -3356,11 +3356,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Hirschengraben 13",
+				"Adresse": "Hirschengraben 13",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "202475",
 				"orientierung": null
 			}
@@ -3375,11 +3375,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Pelikanstrasse 10",
+				"Adresse": "Pelikanstrasse 10",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "202477",
 				"orientierung": null
 			}
@@ -3394,11 +3394,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Thurgauerstrasse 7",
+				"Adresse": "Thurgauerstrasse 7",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "202479",
 				"orientierung": null
 			}
@@ -3413,11 +3413,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Ausstellungsstrasse 39",
+				"Adresse": "Ausstellungsstrasse 39",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "202481",
 				"orientierung": null
 			}
@@ -3432,11 +3432,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Ausstellungsstrasse 41",
+				"Adresse": "Ausstellungsstrasse 41",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "202483",
 				"orientierung": null
 			}
@@ -3451,11 +3451,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Röntgenstrasse 16",
+				"Adresse": "Röntgenstrasse 16",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "202485",
 				"orientierung": null
 			}
@@ -3470,11 +3470,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "St. Jakobstrasse 7",
+				"Adresse": "St. Jakobstrasse 7",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "202487",
 				"orientierung": null
 			}
@@ -3489,11 +3489,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Stauffacherstrasse 141",
+				"Adresse": "Stauffacherstrasse 141",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "202490",
 				"orientierung": null
 			}
@@ -3508,11 +3508,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Ernastrasse 22",
+				"Adresse": "Ernastrasse 22",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "202492",
 				"orientierung": null
 			}
@@ -3527,11 +3527,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Eichbühlstrasse 19",
+				"Adresse": "Eichbühlstrasse 19",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "202494",
 				"orientierung": null
 			}
@@ -3546,11 +3546,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Werdstrasse 72",
+				"Adresse": "Werdstrasse 72",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "202496",
 				"orientierung": null
 			}
@@ -3565,11 +3565,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Im Schilf 7",
+				"Adresse": "Im Schilf 7",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "202498",
 				"orientierung": null
 			}
@@ -3584,11 +3584,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Seebahnstrasse 85",
+				"Adresse": "Seebahnstrasse 85",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "202500",
 				"orientierung": null
 			}
@@ -3603,11 +3603,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Alte Kalchbühlstrasse 15",
+				"Adresse": "Alte Kalchbühlstrasse 15",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "202502",
 				"orientierung": null
 			}
@@ -3622,11 +3622,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Stampfenbachstrasse 40",
+				"Adresse": "Stampfenbachstrasse 40",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "202504",
 				"orientierung": null
 			}
@@ -3641,11 +3641,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Wallisellenstrasse 96",
+				"Adresse": "Wallisellenstrasse 96",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "1",
+				"Gebührenpflichtig": "1",
 				"objectid": "201807",
 				"orientierung": null
 			}
@@ -3660,11 +3660,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Gasometerstrasse 26",
+				"Adresse": "Gasometerstrasse 26",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "201822",
 				"orientierung": null
 			}
@@ -3679,11 +3679,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Rautistrasse 67",
+				"Adresse": "Rautistrasse 67",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "1",
+				"Gebührenpflichtig": "1",
 				"objectid": "26577",
 				"orientierung": null
 			}
@@ -3698,11 +3698,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Bernerstrasse 317",
+				"Adresse": "Bernerstrasse 317",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "1",
+				"Gebührenpflichtig": "1",
 				"objectid": "205011",
 				"orientierung": null
 			}
@@ -3717,11 +3717,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Hardturmstrasse 106",
+				"Adresse": "Hardturmstrasse 106",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "205065",
 				"orientierung": null
 			}
@@ -3736,11 +3736,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Hardturmstrasse 106",
+				"Adresse": "Hardturmstrasse 106",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "205067",
 				"orientierung": null
 			}
@@ -3755,11 +3755,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Leimbachstrasse 31",
+				"Adresse": "Leimbachstrasse 31",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "202023",
 				"orientierung": null
 			}
@@ -3774,11 +3774,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Leimbachstrasse 31",
+				"Adresse": "Leimbachstrasse 31",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "202029",
 				"orientierung": null
 			}
@@ -3793,11 +3793,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Bändlistrasse 34",
+				"Adresse": "Bändlistrasse 34",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "25602",
 				"orientierung": null
 			}
@@ -3812,11 +3812,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Gotthardstrasse 6",
+				"Adresse": "Gotthardstrasse 6",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "1",
+				"Gebührenpflichtig": "1",
 				"objectid": "26895",
 				"orientierung": null
 			}
@@ -3831,11 +3831,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Freilagerstrasse 88",
+				"Adresse": "Freilagerstrasse 88",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "1",
+				"Gebührenpflichtig": "1",
 				"objectid": "26595",
 				"orientierung": null
 			}
@@ -3850,11 +3850,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Helen-Keller-Strasse 12a",
+				"Adresse": "Helen-Keller-Strasse 12a",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "185227",
 				"orientierung": null
 			}
@@ -3869,11 +3869,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Ausstellungsstrasse 60",
+				"Adresse": "Ausstellungsstrasse 60",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "205735",
 				"orientierung": null
 			}
@@ -3888,11 +3888,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Kalkbreitestrasse 78",
+				"Adresse": "Kalkbreitestrasse 78",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "206128",
 				"orientierung": null
 			}
@@ -3907,11 +3907,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Manessestrasse 44",
+				"Adresse": "Manessestrasse 44",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "206133",
 				"orientierung": null
 			}
@@ -3926,11 +3926,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Am Suteracher 46",
+				"Adresse": "Am Suteracher 46",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "206142",
 				"orientierung": null
 			}
@@ -3945,11 +3945,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Zürichbergstrasse 114",
+				"Adresse": "Zürichbergstrasse 114",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "157790",
 				"orientierung": null
 			}
@@ -3964,11 +3964,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Hardhof 9",
+				"Adresse": "Hardhof 9",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "1",
+				"Gebührenpflichtig": "1",
 				"objectid": "206410",
 				"orientierung": null
 			}
@@ -3983,11 +3983,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Ilanzhofweg 6",
+				"Adresse": "Ilanzhofweg 6",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "206097",
 				"orientierung": null
 			}
@@ -4002,11 +4002,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Brunnenhofstrasse 9",
+				"Adresse": "Brunnenhofstrasse 9",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "206098",
 				"orientierung": null
 			}
@@ -4021,11 +4021,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Uetlibergstrasse 301",
+				"Adresse": "Uetlibergstrasse 301",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "206140",
 				"orientierung": null
 			}
@@ -4040,11 +4040,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Bachmannweg 33",
+				"Adresse": "Bachmannweg 33",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "205972",
 				"orientierung": null
 			}
@@ -4059,11 +4059,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Wolfswinkel 41",
+				"Adresse": "Wolfswinkel 41",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "205974",
 				"orientierung": null
 			}
@@ -4078,11 +4078,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Stapferstrasse 20",
+				"Adresse": "Stapferstrasse 20",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "166192",
 				"orientierung": null
 			}
@@ -4097,11 +4097,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Rieterplatz 1",
+				"Adresse": "Rieterplatz 1",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "160546",
 				"orientierung": null
 			}
@@ -4116,11 +4116,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Zurlindenstrasse 222",
+				"Adresse": "Zurlindenstrasse 222",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "154440",
 				"orientierung": null
 			}
@@ -4135,11 +4135,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Hadlaubstrasse 86a",
+				"Adresse": "Hadlaubstrasse 86a",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "165037",
 				"orientierung": null
 			}
@@ -4154,11 +4154,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Manessestrasse 44",
+				"Adresse": "Manessestrasse 44",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "155877",
 				"orientierung": null
 			}
@@ -4173,11 +4173,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Zeppelinstrasse 31",
+				"Adresse": "Zeppelinstrasse 31",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "159424",
 				"orientierung": null
 			}
@@ -4192,11 +4192,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Wehntalerstrasse 760",
+				"Adresse": "Wehntalerstrasse 760",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "161135",
 				"orientierung": null
 			}
@@ -4211,11 +4211,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Nelkenstrasse 7a",
+				"Adresse": "Nelkenstrasse 7a",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "162855",
 				"orientierung": null
 			}
@@ -4230,11 +4230,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Im Hau 50a",
+				"Adresse": "Im Hau 50a",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "167192",
 				"orientierung": null
 			}
@@ -4249,11 +4249,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Hohlstrasse 402",
+				"Adresse": "Hohlstrasse 402",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "167558",
 				"orientierung": null
 			}
@@ -4268,11 +4268,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Vulkanplatz 33",
+				"Adresse": "Vulkanplatz 33",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "172097",
 				"orientierung": null
 			}
@@ -4287,11 +4287,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Sihlquai 255",
+				"Adresse": "Sihlquai 255",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "172107",
 				"orientierung": null
 			}
@@ -4306,11 +4306,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Fronwaldstrasse 94",
+				"Adresse": "Fronwaldstrasse 94",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "173057",
 				"orientierung": null
 			}
@@ -4325,11 +4325,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Fronwaldstrasse 94",
+				"Adresse": "Fronwaldstrasse 94",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "173059",
 				"orientierung": null
 			}
@@ -4344,11 +4344,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Fronwaldstrasse 94",
+				"Adresse": "Fronwaldstrasse 94",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "173061",
 				"orientierung": null
 			}
@@ -4363,11 +4363,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Neugasse 163",
+				"Adresse": "Neugasse 163",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "177564",
 				"orientierung": null
 			}
@@ -4382,11 +4382,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Helen-Keller-Strasse 12a",
+				"Adresse": "Helen-Keller-Strasse 12a",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "185226",
 				"orientierung": null
 			}
@@ -4401,11 +4401,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Gerbergasse 4",
+				"Adresse": "Gerbergasse 4",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "187068",
 				"orientierung": null
 			}
@@ -4420,11 +4420,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Zürichbergstrasse 175a",
+				"Adresse": "Zürichbergstrasse 175a",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "187070",
 				"orientierung": null
 			}
@@ -4439,11 +4439,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Zürichbergstrasse 175a",
+				"Adresse": "Zürichbergstrasse 175a",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "187072",
 				"orientierung": null
 			}
@@ -4458,11 +4458,11 @@
 				]
 			},
 			"properties": {
-				"adresse": null,
+				"Adresse": null,
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "187074",
 				"orientierung": null
 			}
@@ -4477,11 +4477,11 @@
 				]
 			},
 			"properties": {
-				"adresse": null,
+				"Adresse": null,
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "187075",
 				"orientierung": null
 			}
@@ -4496,11 +4496,11 @@
 				]
 			},
 			"properties": {
-				"adresse": null,
+				"Adresse": null,
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "187077",
 				"orientierung": null
 			}
@@ -4515,11 +4515,11 @@
 				]
 			},
 			"properties": {
-				"adresse": null,
+				"Adresse": null,
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "187079",
 				"orientierung": null
 			}
@@ -4534,11 +4534,11 @@
 				]
 			},
 			"properties": {
-				"adresse": null,
+				"Adresse": null,
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "187080",
 				"orientierung": null
 			}
@@ -4553,11 +4553,11 @@
 				]
 			},
 			"properties": {
-				"adresse": null,
+				"Adresse": null,
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "187082",
 				"orientierung": null
 			}
@@ -4572,11 +4572,11 @@
 				]
 			},
 			"properties": {
-				"adresse": null,
+				"Adresse": null,
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "187083",
 				"orientierung": null
 			}
@@ -4591,11 +4591,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Zweierstrasse 136",
+				"Adresse": "Zweierstrasse 136",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "187100",
 				"orientierung": null
 			}
@@ -4610,11 +4610,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Neugasse 80",
+				"Adresse": "Neugasse 80",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "187102",
 				"orientierung": null
 			}
@@ -4629,11 +4629,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Beckenhofstrasse 59",
+				"Adresse": "Beckenhofstrasse 59",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "187836",
 				"orientierung": null
 			}
@@ -4648,11 +4648,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Irchelstrasse 12",
+				"Adresse": "Irchelstrasse 12",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "187838",
 				"orientierung": null
 			}
@@ -4667,11 +4667,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Rämistrasse 38",
+				"Adresse": "Rämistrasse 38",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "187840",
 				"orientierung": null
 			}
@@ -4686,11 +4686,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Thujastrasse 6",
+				"Adresse": "Thujastrasse 6",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "187842",
 				"orientierung": null
 			}
@@ -4705,11 +4705,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Zentralstrasse 153",
+				"Adresse": "Zentralstrasse 153",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "187844",
 				"orientierung": null
 			}
@@ -4724,11 +4724,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Leutschenbachstrasse 50",
+				"Adresse": "Leutschenbachstrasse 50",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "187846",
 				"orientierung": null
 			}
@@ -4743,11 +4743,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Bellerivestrasse 182",
+				"Adresse": "Bellerivestrasse 182",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "188037",
 				"orientierung": null
 			}
@@ -4762,11 +4762,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Langensteinenstrasse 65",
+				"Adresse": "Langensteinenstrasse 65",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "188039",
 				"orientierung": null
 			}
@@ -4781,11 +4781,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Schiffbaustrasse 6",
+				"Adresse": "Schiffbaustrasse 6",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "188041",
 				"orientierung": null
 			}
@@ -4800,11 +4800,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Kienastenwiesweg 2",
+				"Adresse": "Kienastenwiesweg 2",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "188285",
 				"orientierung": null
 			}
@@ -4819,11 +4819,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Rämistrasse 105",
+				"Adresse": "Rämistrasse 105",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "188741",
 				"orientierung": null
 			}
@@ -4838,11 +4838,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Rämistrasse 100",
+				"Adresse": "Rämistrasse 100",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "188743",
 				"orientierung": null
 			}
@@ -4857,11 +4857,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Limmatstrasse 257",
+				"Adresse": "Limmatstrasse 257",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "189120",
 				"orientierung": null
 			}
@@ -4876,11 +4876,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Bürkliplatz 12",
+				"Adresse": "Bürkliplatz 12",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "191710",
 				"orientierung": null
 			}
@@ -4895,11 +4895,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Claridenstrasse 3",
+				"Adresse": "Claridenstrasse 3",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "191714",
 				"orientierung": null
 			}
@@ -4914,11 +4914,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Bahnhofquai 3a",
+				"Adresse": "Bahnhofquai 3a",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "191721",
 				"orientierung": null
 			}
@@ -4933,11 +4933,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Balberstrasse 47",
+				"Adresse": "Balberstrasse 47",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "191723",
 				"orientierung": null
 			}
@@ -4952,11 +4952,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Lessingstrasse 3",
+				"Adresse": "Lessingstrasse 3",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "191729",
 				"orientierung": null
 			}
@@ -4971,11 +4971,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Winterthurerstrasse 519",
+				"Adresse": "Winterthurerstrasse 519",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "191913",
 				"orientierung": null
 			}
@@ -4990,11 +4990,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Opfikonstrasse 176",
+				"Adresse": "Opfikonstrasse 176",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "191915",
 				"orientierung": null
 			}
@@ -5009,11 +5009,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Luegislandstrasse 134",
+				"Adresse": "Luegislandstrasse 134",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "191916",
 				"orientierung": null
 			}
@@ -5028,11 +5028,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Gorwiden 2",
+				"Adresse": "Gorwiden 2",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "191918",
 				"orientierung": null
 			}
@@ -5047,11 +5047,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Mythenquai 75",
+				"Adresse": "Mythenquai 75",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "191925",
 				"orientierung": null
 			}
@@ -5066,11 +5066,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Mythenquai 75",
+				"Adresse": "Mythenquai 75",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "191927",
 				"orientierung": null
 			}
@@ -5085,11 +5085,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Zürichbergstrasse 196",
+				"Adresse": "Zürichbergstrasse 196",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "191929",
 				"orientierung": null
 			}
@@ -5104,11 +5104,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Zürichbergstrasse 196",
+				"Adresse": "Zürichbergstrasse 196",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "191931",
 				"orientierung": null
 			}
@@ -5123,11 +5123,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Zürichbergstrasse 196",
+				"Adresse": "Zürichbergstrasse 196",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "191932",
 				"orientierung": null
 			}
@@ -5142,11 +5142,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Zürichbergstrasse 196",
+				"Adresse": "Zürichbergstrasse 196",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "191935",
 				"orientierung": null
 			}
@@ -5161,11 +5161,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Zürichbergstrasse 245",
+				"Adresse": "Zürichbergstrasse 245",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "191939",
 				"orientierung": null
 			}
@@ -5180,11 +5180,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Glatttalstrasse 38",
+				"Adresse": "Glatttalstrasse 38",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "191943",
 				"orientierung": null
 			}
@@ -5199,11 +5199,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Stadthausquai 17",
+				"Adresse": "Stadthausquai 17",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "191944",
 				"orientierung": null
 			}
@@ -5218,11 +5218,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Stadthausquai 17",
+				"Adresse": "Stadthausquai 17",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "191946",
 				"orientierung": null
 			}
@@ -5237,11 +5237,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Limmatquai 7",
+				"Adresse": "Limmatquai 7",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "191948",
 				"orientierung": null
 			}
@@ -5256,11 +5256,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Löwenstrasse 1",
+				"Adresse": "Löwenstrasse 1",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "191950",
 				"orientierung": null
 			}
@@ -5275,11 +5275,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Karl-Bürkli-Strasse 11",
+				"Adresse": "Karl-Bürkli-Strasse 11",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "191952",
 				"orientierung": null
 			}
@@ -5294,11 +5294,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Rothstrasse 34",
+				"Adresse": "Rothstrasse 34",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "191954",
 				"orientierung": null
 			}
@@ -5313,11 +5313,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Kluseggstrasse 17",
+				"Adresse": "Kluseggstrasse 17",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "191956",
 				"orientierung": null
 			}
@@ -5332,11 +5332,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Seefeldquai 4",
+				"Adresse": "Seefeldquai 4",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "191957",
 				"orientierung": null
 			}
@@ -5351,11 +5351,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Emil-Klöti-Strasse 16",
+				"Adresse": "Emil-Klöti-Strasse 16",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "191959",
 				"orientierung": null
 			}
@@ -5370,11 +5370,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Rötelsteig 6",
+				"Adresse": "Rötelsteig 6",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "191961",
 				"orientierung": null
 			}
@@ -5389,11 +5389,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Wildbachstrasse 80",
+				"Adresse": "Wildbachstrasse 80",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "191963",
 				"orientierung": null
 			}
@@ -5408,11 +5408,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Zentralstrasse 74",
+				"Adresse": "Zentralstrasse 74",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "191965",
 				"orientierung": null
 			}
@@ -5427,11 +5427,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Allmendstrasse 2",
+				"Adresse": "Allmendstrasse 2",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "191967",
 				"orientierung": null
 			}
@@ -5446,11 +5446,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Regensbergstrasse 121",
+				"Adresse": "Regensbergstrasse 121",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "192655",
 				"orientierung": null
 			}
@@ -5465,11 +5465,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Greifenseestrasse 50",
+				"Adresse": "Greifenseestrasse 50",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "192658",
 				"orientierung": null
 			}
@@ -5484,11 +5484,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Birchstrasse 408",
+				"Adresse": "Birchstrasse 408",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "192660",
 				"orientierung": null
 			}
@@ -5503,11 +5503,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Röschibachstrasse 63",
+				"Adresse": "Röschibachstrasse 63",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "192661",
 				"orientierung": null
 			}
@@ -5522,11 +5522,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Zwyssigstrasse 2",
+				"Adresse": "Zwyssigstrasse 2",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "192663",
 				"orientierung": null
 			}
@@ -5541,11 +5541,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Mühlebachstrasse 137",
+				"Adresse": "Mühlebachstrasse 137",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "192665",
 				"orientierung": null
 			}
@@ -5560,11 +5560,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Stettbachstrasse 60",
+				"Adresse": "Stettbachstrasse 60",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "192667",
 				"orientierung": null
 			}
@@ -5579,11 +5579,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Sternwartstrasse 14",
+				"Adresse": "Sternwartstrasse 14",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "192669",
 				"orientierung": null
 			}
@@ -5598,11 +5598,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Fröbelstrasse 33a",
+				"Adresse": "Fröbelstrasse 33a",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "192671",
 				"orientierung": null
 			}
@@ -5617,11 +5617,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Friesenberghalde 8",
+				"Adresse": "Friesenberghalde 8",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "192673",
 				"orientierung": null
 			}
@@ -5636,11 +5636,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Birmensdorferstrasse 198",
+				"Adresse": "Birmensdorferstrasse 198",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "192675",
 				"orientierung": null
 			}
@@ -5655,11 +5655,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Hardaustrasse 2",
+				"Adresse": "Hardaustrasse 2",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "192677",
 				"orientierung": null
 			}
@@ -5674,11 +5674,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Stapferstrasse 35",
+				"Adresse": "Stapferstrasse 35",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "192680",
 				"orientierung": null
 			}
@@ -5693,11 +5693,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Gloriastrasse 7",
+				"Adresse": "Gloriastrasse 7",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "199219",
 				"orientierung": null
 			}
@@ -5712,11 +5712,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Universitätstrasse 6f",
+				"Adresse": "Universitätstrasse 6f",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "199275",
 				"orientierung": null
 			}
@@ -5731,11 +5731,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Seefeldstrasse 275",
+				"Adresse": "Seefeldstrasse 275",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "199318",
 				"orientierung": null
 			}
@@ -5750,11 +5750,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Else-Züblin-Strasse 40",
+				"Adresse": "Else-Züblin-Strasse 40",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "200834",
 				"orientierung": null
 			}
@@ -5769,11 +5769,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Hardturmstrasse 5a",
+				"Adresse": "Hardturmstrasse 5a",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "200848",
 				"orientierung": null
 			}
@@ -5788,11 +5788,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Lengghalde 2",
+				"Adresse": "Lengghalde 2",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "200851",
 				"orientierung": null
 			}
@@ -5807,11 +5807,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Sumatrastrasse 15",
+				"Adresse": "Sumatrastrasse 15",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "200853",
 				"orientierung": null
 			}
@@ -5826,11 +5826,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Forchstrasse 266",
+				"Adresse": "Forchstrasse 266",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "200909",
 				"orientierung": null
 			}
@@ -5845,11 +5845,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Birmensdorferstrasse 497d",
+				"Adresse": "Birmensdorferstrasse 497d",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "200927",
 				"orientierung": null
 			}
@@ -5864,11 +5864,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Hönggerbergring 64",
+				"Adresse": "Hönggerbergring 64",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "200945",
 				"orientierung": null
 			}
@@ -5883,11 +5883,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Hönggerbergring 64",
+				"Adresse": "Hönggerbergring 64",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "200946",
 				"orientierung": null
 			}
@@ -5902,11 +5902,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Bachtobelstrasse 225",
+				"Adresse": "Bachtobelstrasse 225",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "200976",
 				"orientierung": null
 			}
@@ -5921,11 +5921,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Limmattalstrasse 371",
+				"Adresse": "Limmattalstrasse 371",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "200978",
 				"orientierung": null
 			}
@@ -5940,11 +5940,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Hagenholzstrasse 106b",
+				"Adresse": "Hagenholzstrasse 106b",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "201048",
 				"orientierung": null
 			}
@@ -5959,11 +5959,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Hagenholzstrasse 116c",
+				"Adresse": "Hagenholzstrasse 116c",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "201056",
 				"orientierung": null
 			}
@@ -5978,11 +5978,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Leonhardstrasse 33",
+				"Adresse": "Leonhardstrasse 33",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "201062",
 				"orientierung": null
 			}
@@ -5997,11 +5997,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Wallisellenstrasse 49",
+				"Adresse": "Wallisellenstrasse 49",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "201064",
 				"orientierung": null
 			}
@@ -6016,11 +6016,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Ueberlandstrasse 429",
+				"Adresse": "Ueberlandstrasse 429",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "201102",
 				"orientierung": null
 			}
@@ -6035,11 +6035,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Frauenklinikstrasse 10",
+				"Adresse": "Frauenklinikstrasse 10",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "201221",
 				"orientierung": null
 			}
@@ -6054,11 +6054,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Limmattalstrasse 150",
+				"Adresse": "Limmattalstrasse 150",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "201285",
 				"orientierung": null
 			}
@@ -6073,11 +6073,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Emil-Klöti-Strasse 23",
+				"Adresse": "Emil-Klöti-Strasse 23",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "201375",
 				"orientierung": null
 			}
@@ -6092,11 +6092,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Hardturmstrasse 106",
+				"Adresse": "Hardturmstrasse 106",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "201512",
 				"orientierung": null
 			}
@@ -6111,11 +6111,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Gasometerstrasse 26",
+				"Adresse": "Gasometerstrasse 26",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "201821",
 				"orientierung": null
 			}
@@ -6130,11 +6130,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Leimbachstrasse 33",
+				"Adresse": "Leimbachstrasse 33",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "201828",
 				"orientierung": null
 			}
@@ -6149,11 +6149,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Marie-Heim-Vögtlin-Weg 60",
+				"Adresse": "Marie-Heim-Vögtlin-Weg 60",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "202321",
 				"orientierung": null
 			}
@@ -6168,11 +6168,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Spirgartenstrasse 5",
+				"Adresse": "Spirgartenstrasse 5",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "202323",
 				"orientierung": null
 			}
@@ -6187,11 +6187,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Stüssistrasse 87",
+				"Adresse": "Stüssistrasse 87",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "202465",
 				"orientierung": null
 			}
@@ -6206,11 +6206,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Kurvenstrasse 39",
+				"Adresse": "Kurvenstrasse 39",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "202467",
 				"orientierung": null
 			}
@@ -6225,11 +6225,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Hardstrasse 301",
+				"Adresse": "Hardstrasse 301",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "202469",
 				"orientierung": null
 			}
@@ -6244,11 +6244,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Hardstrasse 301",
+				"Adresse": "Hardstrasse 301",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "202471",
 				"orientierung": null
 			}
@@ -6263,11 +6263,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Degenriedstrasse 135",
+				"Adresse": "Degenriedstrasse 135",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "202472",
 				"orientierung": null
 			}
@@ -6282,11 +6282,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Hirschengraben 48",
+				"Adresse": "Hirschengraben 48",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "202474",
 				"orientierung": null
 			}
@@ -6301,11 +6301,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Pelikanstrasse 10",
+				"Adresse": "Pelikanstrasse 10",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "202476",
 				"orientierung": null
 			}
@@ -6320,11 +6320,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Thurgauerstrasse 7",
+				"Adresse": "Thurgauerstrasse 7",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "202478",
 				"orientierung": null
 			}
@@ -6339,11 +6339,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Ausstellungsstrasse 41",
+				"Adresse": "Ausstellungsstrasse 41",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "202480",
 				"orientierung": null
 			}
@@ -6358,11 +6358,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Ausstellungsstrasse 41",
+				"Adresse": "Ausstellungsstrasse 41",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "202482",
 				"orientierung": null
 			}
@@ -6377,11 +6377,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Röntgenstrasse 16",
+				"Adresse": "Röntgenstrasse 16",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "202484",
 				"orientierung": null
 			}
@@ -6396,11 +6396,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Stauffacherstrasse 141",
+				"Adresse": "Stauffacherstrasse 141",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "202491",
 				"orientierung": null
 			}
@@ -6415,11 +6415,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Ernastrasse 22",
+				"Adresse": "Ernastrasse 22",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "202493",
 				"orientierung": null
 			}
@@ -6434,11 +6434,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Schaffhauserstrasse 32",
+				"Adresse": "Schaffhauserstrasse 32",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "202495",
 				"orientierung": null
 			}
@@ -6453,11 +6453,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Bergstrasse 4",
+				"Adresse": "Bergstrasse 4",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "202497",
 				"orientierung": null
 			}
@@ -6472,11 +6472,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Hadlaubstrasse 23",
+				"Adresse": "Hadlaubstrasse 23",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "202499",
 				"orientierung": null
 			}
@@ -6491,11 +6491,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Dahliastrasse 16",
+				"Adresse": "Dahliastrasse 16",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "202501",
 				"orientierung": null
 			}
@@ -6510,11 +6510,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Stampfenbachstrasse 40",
+				"Adresse": "Stampfenbachstrasse 40",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "202503",
 				"orientierung": null
 			}
@@ -6529,11 +6529,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Witellikerstrasse 40a",
+				"Adresse": "Witellikerstrasse 40a",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "202571",
 				"orientierung": null
 			}
@@ -6548,11 +6548,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Ausstellungsstrasse 104a",
+				"Adresse": "Ausstellungsstrasse 104a",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "202581",
 				"orientierung": null
 			}
@@ -6567,11 +6567,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Hardturmstrasse 130a",
+				"Adresse": "Hardturmstrasse 130a",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "203066",
 				"orientierung": null
 			}
@@ -6586,11 +6586,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Forchstrasse 269",
+				"Adresse": "Forchstrasse 269",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "203559",
 				"orientierung": null
 			}
@@ -6605,11 +6605,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Gutstrasse 172a",
+				"Adresse": "Gutstrasse 172a",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "203593",
 				"orientierung": null
 			}
@@ -6624,11 +6624,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Predigerplatz 33",
+				"Adresse": "Predigerplatz 33",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "203601",
 				"orientierung": null
 			}
@@ -6643,11 +6643,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Birmensdorferstrasse 495a",
+				"Adresse": "Birmensdorferstrasse 495a",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "203851",
 				"orientierung": null
 			}
@@ -6662,11 +6662,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Hermetschloostrasse 70",
+				"Adresse": "Hermetschloostrasse 70",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "204108",
 				"orientierung": null
 			}
@@ -6681,11 +6681,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Sihlpostgasse 2",
+				"Adresse": "Sihlpostgasse 2",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "204956",
 				"orientierung": null
 			}
@@ -6700,11 +6700,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Lenggstrasse 76",
+				"Adresse": "Lenggstrasse 76",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "205850",
 				"orientierung": null
 			}
@@ -6719,11 +6719,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Lenggstrasse 76",
+				"Adresse": "Lenggstrasse 76",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "205851",
 				"orientierung": null
 			}
@@ -6738,11 +6738,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Regensbergstrasse 199",
+				"Adresse": "Regensbergstrasse 199",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "205708",
 				"orientierung": null
 			}
@@ -6757,11 +6757,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Vulkanplatz 9",
+				"Adresse": "Vulkanplatz 9",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "1",
+				"Gebührenpflichtig": "1",
 				"objectid": "30132",
 				"orientierung": null
 			}
@@ -6776,11 +6776,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Dübendorfstrasse 217",
+				"Adresse": "Dübendorfstrasse 217",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "205565",
 				"orientierung": null
 			}
@@ -6795,11 +6795,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Sackzelg 27",
+				"Adresse": "Sackzelg 27",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "206445",
 				"orientierung": null
 			}
@@ -6814,11 +6814,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Lengghalde 1",
+				"Adresse": "Lengghalde 1",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "25289",
 				"orientierung": null
 			}
@@ -6833,11 +6833,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Birmensdorferstrasse 497d",
+				"Adresse": "Birmensdorferstrasse 497d",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "206485",
 				"orientierung": null
 			}
@@ -6852,11 +6852,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Lengghalde 7",
+				"Adresse": "Lengghalde 7",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "206433",
 				"orientierung": null
 			}
@@ -6871,11 +6871,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Museumstrasse 1",
+				"Adresse": "Museumstrasse 1",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "205730",
 				"orientierung": null
 			}
@@ -6890,11 +6890,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Forsterstrasse 34",
+				"Adresse": "Forsterstrasse 34",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "206239",
 				"orientierung": null
 			}
@@ -6909,11 +6909,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Mattenhof 1",
+				"Adresse": "Mattenhof 1",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "205566",
 				"orientierung": null
 			}
@@ -6928,11 +6928,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Flüelastrasse 29",
+				"Adresse": "Flüelastrasse 29",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "206201",
 				"orientierung": null
 			}
@@ -6947,11 +6947,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Flüelastrasse 28a",
+				"Adresse": "Flüelastrasse 28a",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "206487",
 				"orientierung": null
 			}
@@ -6966,11 +6966,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Friedhofstrasse 83",
+				"Adresse": "Friedhofstrasse 83",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "18898",
 				"orientierung": null
 			}
@@ -6985,11 +6985,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Friedhofstrasse 83",
+				"Adresse": "Friedhofstrasse 83",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "18899",
 				"orientierung": null
 			}
@@ -7004,11 +7004,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Friedhofstrasse 83",
+				"Adresse": "Friedhofstrasse 83",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "18900",
 				"orientierung": null
 			}
@@ -7023,11 +7023,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Weinbergstrasse 58",
+				"Adresse": "Weinbergstrasse 58",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "1281",
 				"orientierung": null
 			}
@@ -7042,11 +7042,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Sumatrastrasse 30a",
+				"Adresse": "Sumatrastrasse 30a",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "1282",
 				"orientierung": null
 			}
@@ -7061,11 +7061,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Röschibachstrasse 60",
+				"Adresse": "Röschibachstrasse 60",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "2884",
 				"orientierung": null
 			}
@@ -7080,11 +7080,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Röschibachstrasse 67",
+				"Adresse": "Röschibachstrasse 67",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "2885",
 				"orientierung": null
 			}
@@ -7099,11 +7099,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Eugen-Huber-Strasse 17",
+				"Adresse": "Eugen-Huber-Strasse 17",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "2887",
 				"orientierung": null
 			}
@@ -7118,11 +7118,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Hohlstrasse 559",
+				"Adresse": "Hohlstrasse 559",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "1",
+				"Gebührenpflichtig": "1",
 				"objectid": "2889",
 				"orientierung": null
 			}
@@ -7137,11 +7137,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Hermetschloostrasse 68",
+				"Adresse": "Hermetschloostrasse 68",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "2890",
 				"orientierung": null
 			}
@@ -7156,11 +7156,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Hermetschloostrasse 68",
+				"Adresse": "Hermetschloostrasse 68",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "2891",
 				"orientierung": null
 			}
@@ -7175,11 +7175,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Hohlstrasse 532",
+				"Adresse": "Hohlstrasse 532",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "1",
+				"Gebührenpflichtig": "1",
 				"objectid": "19210",
 				"orientierung": null
 			}
@@ -7194,11 +7194,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Hohlstrasse 532",
+				"Adresse": "Hohlstrasse 532",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "1",
+				"Gebührenpflichtig": "1",
 				"objectid": "19223",
 				"orientierung": null
 			}
@@ -7213,11 +7213,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Wipkingerplatz 1a",
+				"Adresse": "Wipkingerplatz 1a",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "2267",
 				"orientierung": null
 			}
@@ -7232,11 +7232,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Zahnradstrasse 31",
+				"Adresse": "Zahnradstrasse 31",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "1",
+				"Gebührenpflichtig": "1",
 				"objectid": "22083",
 				"orientierung": null
 			}
@@ -7251,11 +7251,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Leimbachstrasse 33",
+				"Adresse": "Leimbachstrasse 33",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "14401",
 				"orientierung": null
 			}
@@ -7270,11 +7270,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Leimbachstrasse 23",
+				"Adresse": "Leimbachstrasse 23",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "1",
+				"Gebührenpflichtig": "1",
 				"objectid": "14414",
 				"orientierung": null
 			}
@@ -7289,11 +7289,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Mühlackerstrasse 102",
+				"Adresse": "Mühlackerstrasse 102",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "205973",
 				"orientierung": null
 			}
@@ -7308,11 +7308,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Stapferstrasse 64a",
+				"Adresse": "Stapferstrasse 64a",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "28497",
 				"orientierung": null
 			}
@@ -7327,11 +7327,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Forchstrasse 336",
+				"Adresse": "Forchstrasse 336",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "206454",
 				"orientierung": null
 			}
@@ -7346,11 +7346,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Lindenhofstrasse 19",
+				"Adresse": "Lindenhofstrasse 19",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "1927",
 				"orientierung": null
 			}
@@ -7365,11 +7365,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Lengghalde 7",
+				"Adresse": "Lengghalde 7",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "206434",
 				"orientierung": null
 			}
@@ -7384,11 +7384,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Werdstrasse 23a",
+				"Adresse": "Werdstrasse 23a",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "5768",
 				"orientierung": null
 			}
@@ -7403,11 +7403,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Wehntalerstrasse 280",
+				"Adresse": "Wehntalerstrasse 280",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "6789",
 				"orientierung": null
 			}
@@ -7422,11 +7422,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Enzenbühlstrasse 31",
+				"Adresse": "Enzenbühlstrasse 31",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "6807",
 				"orientierung": null
 			}
@@ -7441,11 +7441,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Michelstrasse 67",
+				"Adresse": "Michelstrasse 67",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "185435",
 				"orientierung": null
 			}
@@ -7460,11 +7460,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Etzelstrasse 3",
+				"Adresse": "Etzelstrasse 3",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "4168",
 				"orientierung": null
 			}
@@ -7479,11 +7479,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "In Böden 53",
+				"Adresse": "In Böden 53",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "4175",
 				"orientierung": null
 			}
@@ -7498,11 +7498,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Letzigraben 135",
+				"Adresse": "Letzigraben 135",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "24979",
 				"orientierung": null
 			}
@@ -7517,11 +7517,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Langhagweg 4",
+				"Adresse": "Langhagweg 4",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "24980",
 				"orientierung": null
 			}
@@ -7536,11 +7536,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Gutstrasse 180",
+				"Adresse": "Gutstrasse 180",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "24981",
 				"orientierung": null
 			}
@@ -7555,11 +7555,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Bleulerstrasse 76",
+				"Adresse": "Bleulerstrasse 76",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "3849",
 				"orientierung": null
 			}
@@ -7574,11 +7574,11 @@
 				]
 			},
 			"properties": {
-				"adresse": null,
+				"Adresse": null,
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "1",
+				"Gebührenpflichtig": "1",
 				"objectid": "202051",
 				"orientierung": null
 			}
@@ -7593,11 +7593,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Hardhof 14a",
+				"Adresse": "Hardhof 14a",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "1",
+				"Gebührenpflichtig": "1",
 				"objectid": "197950",
 				"orientierung": null
 			}
@@ -7612,11 +7612,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Hardhof 2a",
+				"Adresse": "Hardhof 2a",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "1",
+				"Gebührenpflichtig": "1",
 				"objectid": "197956",
 				"orientierung": null
 			}
@@ -7631,11 +7631,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Marchwartstrasse 48",
+				"Adresse": "Marchwartstrasse 48",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "206027",
 				"orientierung": null
 			}
@@ -7650,11 +7650,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Im Heuried 74",
+				"Adresse": "Im Heuried 74",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "206180",
 				"orientierung": null
 			}
@@ -7669,11 +7669,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Im Heuried 74",
+				"Adresse": "Im Heuried 74",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "206181",
 				"orientierung": null
 			}
@@ -7688,11 +7688,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Mühlebachstrasse 114",
+				"Adresse": "Mühlebachstrasse 114",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "4803",
 				"orientierung": null
 			}
@@ -7707,11 +7707,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Mühlebachstrasse 114",
+				"Adresse": "Mühlebachstrasse 114",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "4804",
 				"orientierung": null
 			}
@@ -7726,11 +7726,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Brandschenkestrasse 132",
+				"Adresse": "Brandschenkestrasse 132",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "1",
+				"Gebührenpflichtig": "1",
 				"objectid": "1295",
 				"orientierung": null
 			}
@@ -7745,11 +7745,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Brandschenkestrasse 132",
+				"Adresse": "Brandschenkestrasse 132",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "1",
+				"Gebührenpflichtig": "1",
 				"objectid": "1296",
 				"orientierung": null
 			}
@@ -7764,11 +7764,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Balberstrasse 16",
+				"Adresse": "Balberstrasse 16",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "206032",
 				"orientierung": null
 			}
@@ -7783,11 +7783,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Zürichbergstrasse 10a",
+				"Adresse": "Zürichbergstrasse 10a",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "2256",
 				"orientierung": null
 			}
@@ -7802,11 +7802,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Mühlackerstrasse 199",
+				"Adresse": "Mühlackerstrasse 199",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "6772",
 				"orientierung": null
 			}
@@ -7821,11 +7821,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Mühlackerstrasse 199",
+				"Adresse": "Mühlackerstrasse 199",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "6773",
 				"orientierung": null
 			}
@@ -7840,11 +7840,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Vulkanplatz 9",
+				"Adresse": "Vulkanplatz 9",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "1",
+				"Gebührenpflichtig": "1",
 				"objectid": "21775",
 				"orientierung": null
 			}
@@ -7859,11 +7859,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Häldeliweg 8",
+				"Adresse": "Häldeliweg 8",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "6088",
 				"orientierung": null
 			}
@@ -7878,11 +7878,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Stampfenbachstrasse 68",
+				"Adresse": "Stampfenbachstrasse 68",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "10279",
 				"orientierung": null
 			}
@@ -7897,11 +7897,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Riedhofstrasse 376",
+				"Adresse": "Riedhofstrasse 376",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "206056",
 				"orientierung": null
 			}
@@ -7916,11 +7916,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Vulkanstrasse 108c",
+				"Adresse": "Vulkanstrasse 108c",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "1",
+				"Gebührenpflichtig": "1",
 				"objectid": "206250",
 				"orientierung": null
 			}
@@ -7935,11 +7935,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Freiestrasse 69",
+				"Adresse": "Freiestrasse 69",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "2266",
 				"orientierung": null
 			}
@@ -7954,11 +7954,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Albisstrasse 73",
+				"Adresse": "Albisstrasse 73",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "3226",
 				"orientierung": null
 			}
@@ -7973,11 +7973,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Hornbachstrasse 20",
+				"Adresse": "Hornbachstrasse 20",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "1",
+				"Gebührenpflichtig": "1",
 				"objectid": "6813",
 				"orientierung": null
 			}
@@ -7992,11 +7992,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Brahmsstrasse 104",
+				"Adresse": "Brahmsstrasse 104",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "1283",
 				"orientierung": null
 			}
@@ -8011,11 +8011,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Bahnhaldenstrasse 15",
+				"Adresse": "Bahnhaldenstrasse 15",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "7048",
 				"orientierung": null
 			}
@@ -8030,11 +8030,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Hochstrasse 65",
+				"Adresse": "Hochstrasse 65",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "11278",
 				"orientierung": null
 			}
@@ -8049,11 +8049,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Plattenstrasse 15",
+				"Adresse": "Plattenstrasse 15",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "3548",
 				"orientierung": null
 			}
@@ -8068,11 +8068,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Plattenstrasse 15",
+				"Adresse": "Plattenstrasse 15",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "3549",
 				"orientierung": null
 			}
@@ -8087,11 +8087,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Breitensteinstrasse 14",
+				"Adresse": "Breitensteinstrasse 14",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "205443",
 				"orientierung": null
 			}
@@ -8106,11 +8106,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Steinwiesstrasse 77",
+				"Adresse": "Steinwiesstrasse 77",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "1",
+				"Gebührenpflichtig": "1",
 				"objectid": "206317",
 				"orientierung": null
 			}
@@ -8125,11 +8125,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Steinwiesstrasse 77",
+				"Adresse": "Steinwiesstrasse 77",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "1",
+				"Gebührenpflichtig": "1",
 				"objectid": "206316",
 				"orientierung": null
 			}
@@ -8144,11 +8144,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Hofwiesenstrasse 141",
+				"Adresse": "Hofwiesenstrasse 141",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "6751",
 				"orientierung": null
 			}
@@ -8163,11 +8163,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Tièchestrasse 99",
+				"Adresse": "Tièchestrasse 99",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "24328",
 				"orientierung": null
 			}
@@ -8182,11 +8182,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Brandschenkestrasse 41",
+				"Adresse": "Brandschenkestrasse 41",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "4812",
 				"orientierung": null
 			}
@@ -8201,11 +8201,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Scheuchzerstrasse 85b",
+				"Adresse": "Scheuchzerstrasse 85b",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "0",
+				"Gebührenpflichtig": "0",
 				"objectid": "206096",
 				"orientierung": null
 			}
@@ -8220,11 +8220,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Heinrichstrasse 227",
+				"Adresse": "Heinrichstrasse 227",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "1",
+				"Gebührenpflichtig": "1",
 				"objectid": "5441",
 				"orientierung": null
 			}
@@ -8239,11 +8239,11 @@
 				]
 			},
 			"properties": {
-				"adresse": "Heinrichstrasse 227",
+				"Adresse": "Heinrichstrasse 227",
 				"art": "Nur mit Geh-Behindertenausweis",
 				"azimut": null,
 				"distanz": null,
-				"gebpflicht": "1",
+				"Gebührenpflichtig": "1",
 				"objectid": "5442",
 				"orientierung": null
 			}
