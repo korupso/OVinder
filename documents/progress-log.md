@@ -187,3 +187,10 @@
 > The app icon itself also has to be revamped in my opinion.  
 >> Here is the new icon  
 >> ![Icon for motorbike parking](images/progress/markers/icons/parking_motor-bike.png)  
+>   
+> ---  
+> ### 16:15  
+> I created an icon for mixed parking between motorbike and bycicle.  
+> There is now info in the info bubbles of the markers, but it's poorly formatted as of now.  
+>> Here is the new icon  
+>> ![Icon for mixed parking between motorbike and bycicle](images/progress/markers/icons/parking_two-wheelers.png)

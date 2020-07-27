@@ -53,4 +53,7 @@ I had a nice break today and on time for once.
 I spent my break in the shower and in the train, since I had an important appointment afterwards.  
   
 ## 24.07.2020  
-I did not forget my break, due to my alarm reminding me.
+I did not forget my break, due to my alarm reminding me.  
+  
+## 27.07.2020  
+I made a short lunch break today, since I wanted to continue working on the program.

@@ -103,4 +103,10 @@
 > ## 24.07.2020  
 > ### 3/5  
 > It was not very easy to wake up today, but it was not particularily hard.  
-> I might change my alarm tone again.
+> I might change my alarm tone again.  
+  
+> ## 27.07.2020  
+> ### 5/5  
+> Despite not feeling well yesterday, I fell asleep quite quickly.  
+> I also did not really have any problems waking up today.  
+> I even went to the trainstation a little too early, but that's not really an issue I guess.

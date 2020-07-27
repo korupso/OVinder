@@ -243,4 +243,21 @@ I may as well also decide on a color palette.
   
 **What hinders my progress?**  
 I had to spend too much time on a single method today, which is why I got a bit confused in the end.  
-Maybe the weekend will help me to make me less confused on Monday.
+Maybe the weekend will help me to make me less confused on Monday.  
+  
+---  
+## 27.07.2020  
+**What did I do today?**  
+I made the rendering of the markers much more fluent.  
+I also created two new icons.  
+One for motorbike parking and one for mixed parking between motorbike and bycicle.  
+I worked on adding info into the bubbles, but it's not very easy to format it.  
+I'll see, if there is something in the documentation.  
+  
+**What will I do tomorrow?**  
+I will work more on the info bubbles and I'll try to make them look a bit better.  
+This may as well take the whole day, but if there is time left, I'll try to start implementing the routing feature.  
+  
+**What hinders my progress?**  
+Nothing at the moment.  
+Everything is working as intended.
