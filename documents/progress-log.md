@@ -176,4 +176,14 @@
 > I tried to make them work correctly until now.  
 > I will try to make them work tomorrow.  
 >> This is a picture of a working info bubble with a sample text  
->> ![Info bubble with sample text](images/progress/markers/info-bubbles.png)
+>> ![Info bubble with sample text](images/progress/markers/info-bubbles.png)  
+---  
+---  
+> ## 27.07.2020  
+> ### 12:15  
+> I made the rendering of the marker icons much faster, by moving some code to other functions.  
+> I also found out, that the parking_bike dataset also contains parking spaces for motorbikes, which is why I created another icon for that.  
+> I feel like I'm getting better at creating icons, which is why I decided to only use self-made icons in the app, since it completely avoids the struggle with usage rights.  
+> The app icon itself also has to be revamped in my opinion.  
+>> Here is the new icon  
+>> ![Icon for motorbike parking](images/progress/markers/icons/parking_motor-bike.png)  
