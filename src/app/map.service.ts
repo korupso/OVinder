@@ -16,7 +16,7 @@ export class MapService {
   map: any;
   mapElement: ElementRef;
   mapStyle: any;
-  mapObjects = [];
+  mapObjects: { name: string, objects: any[] }[] = [];
 
   ui: any;
 
@@ -50,24 +50,41 @@ export class MapService {
       );
 
       var mapViewListener = mapEvent => {
-        if (mapEvent.newValue.lookAt) if (mapEvent.newValue.lookAt.zoom >= 16) {
-          this.updateVisibility(mapEvent.newValue.lookAt.bounds.getBoundingBox());
+        if (this.map.getZoom() >= 16) {
+          this.updateVisibility(this.map.getViewModel().getLookAtData().bounds.getBoundingBox());
         }
       };
-      this.map.addEventListener("mapviewchange", mapViewListener);
+      this.map.addEventListener("mapviewchangeend", mapViewListener);
+
+      /*var boundingBoxValidationObject = {
+        aa: -180,
+        da: 180,
+        ia: 90,
+        la: -90
+      };
+      Object.entries(this.map.getViewModel().getLookAtData().bounds.getBoundingBox()).filter(entry => {
+        if (boundingBoxValidationObject[entry[0]]) {
+          if (boundingBoxValidationObject[entry[0]] === entry[1]) {
+            return false;
+          }
+        }
+        
+      });
+      do {
+        setTimeout(() => { }, 50);
+      } while (this.map.getViewModel().getLookAtData().bounds.getBoundingBox() === { a: null, aa: -180, b: null, c: null, da: 180, ia: 90, la: -90 });
+      console.log(this.map.getViewModel().getLookAtData().bounds.getBoundingBox());*/
 
       var mapListener = mapEvent => {
-        if (mapEvent.oldValue.lookAt) if (mapEvent.oldValue.lookAt.position !== { lat: 0, lng: 0 }) {
-          this.map.removeEventListener("mapviewchange", mapListener);
-          this.selectedMarkers.forEach(selectedMarker => {
-            this.parseData(selectedMarker, layer => {
-              this.updateVisibility(mapEvent.newValue.lookAt.bounds.getBoundingBox());
-              this.map.addLayer(layer.setMin(16));
-            });
+        this.map.removeEventListener("mapviewchangeend", mapListener);
+        this.selectedMarkers.forEach(selectedMarker => {
+          this.parseData(selectedMarker, layer => {
+            this.updateVisibility(this.map.getViewModel().getLookAtData().bounds.getBoundingBox());
+            this.map.addLayer(layer.setMin(16));
           });
-        }
+        });
       };
-      this.map.addEventListener("mapviewchange", mapListener);
+      this.map.addEventListener("mapviewchangeend", mapListener);
       this.ui = H.ui.UI.createDefault(this.map, defaultLayers);
       var mapEvents = new H.mapevents.MapEvents(this.map);
       var behavior = new H.mapevents.Behavior(mapEvents);
@@ -92,12 +109,17 @@ export class MapService {
   parseData(selectedMarker: string, cb: (layer: any) => void) {
     var icon = new H.map.Icon(markers.find(marker => marker.name === selectedMarker).icon, {
       size: {
-        w: 24, h: 24
+        w: 24,
+        h: 24
+      },
+      anchor: {
+        x: 12,
+        y: 12
       }
     });
     var reader = new H.data.geojson.Reader("/assets/geoJSON/" + selectedMarker + ".json", {
       disableLegacyMode: true,
-      style: (style) => style.setIcon(icon)
+      style: marker => marker.setIcon(icon)
     });
     var geoListener = stateEvent => {
       if (stateEvent.state === 2) {
@@ -105,13 +127,13 @@ export class MapService {
         reader.getParsedObjects()[0].getObjects().forEach(object => {
           object.addEventListener("tap", evt => {
             var bubble = new H.ui.InfoBubble(evt.target.getGeometry(), {
-              content: evt.target.getData()
+              content: evt.target.getData().bubble
             });
 
             this.ui.addBubble(bubble);
           });
         });
-        this.mapObjects.push(reader.getParsedObjects()[0].getObjects());
+        this.mapObjects.push({ name: selectedMarker, objects: reader.getParsedObjects()[0].getObjects() });
         cb(reader.getLayer());
       }
     };
@@ -123,15 +145,7 @@ export class MapService {
    * Updates the visibility of all markers on the map.
    * @param bounds The current view bounds of the map.
    */
-  updateVisibility(bounds: any) {
-    for (var i = 0; i < this.mapObjects.length; i++) {
-      for (var j = 0; j < this.mapObjects[i].length; j++) {
-        this.mapObjects[i][j].icon.b = { x: 12, y: 12 };
-        this.mapObjects[i][j].setData('<h3>Test</h3>');
-        this.mapObjects[i][j].setVisibility(bounds.containsPoint(this.mapObjects[i][j].b));
-      }
-    }
-  }
+  updateVisibility = (bounds: any) => this.mapObjects.forEach(mapObject => mapObject.objects.forEach(obj => obj.setVisibility(bounds.containsPoint(obj.b))));
 
   /**
    * Get the user's coordinates, using the gps permission.
