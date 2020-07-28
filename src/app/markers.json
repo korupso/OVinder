@@ -19,10 +19,11 @@
             ],
             "parking_spaces": [
                 "Parkplätze",
-                "Behindertenparkplätze",
-                "Elektroparkplätze",
-                "Frauenparkplätze",
-                "Kleinwagenparkplätze"
+                "Behinderte",
+                "Elektro",
+                "Frauen",
+                "Kleinwagen",
+                "Mobility"
             ],
             "misc": [
                 "Adresse"

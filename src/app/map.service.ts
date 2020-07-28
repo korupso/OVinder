@@ -110,16 +110,28 @@ export class MapService {
         reader.removeEventListener("statechange", geoListener);
         reader.getParsedObjects()[0].getObjects().forEach(object => {
           object.addEventListener("tap", evt => {
-            this.map.setCenter(object.getGeometry(), true);
-            this.ui.getBubbles().forEach(bubble => this.ui.removeBubble(bubble));
+            this.removeBubbles();
 
-            var bubble = new H.ui.InfoBubble(evt.target.getGeometry(), {
-              content: this.infoToHTML(object, marker.info)
-            });
-
-            console.log(bubble);
+            var bubble = this.createBubble(object.getGeometry(), this.infoToHTML(object, marker.info));
 
             this.ui.addBubble(bubble);
+
+            var offset: DOMRect = bubble.getElement().firstElementChild.getBoundingClientRect();
+            var geoScreenPixel = this.getGeoScreenPixel();
+            var geometry = object.getGeometry();
+
+            var center = new H.geo.Point(
+              (
+                (geometry.lat + geoScreenPixel.lat * offset.top) +
+                (geometry.lat + geoScreenPixel.lat * offset.bottom)
+              ) / 2,
+              (
+                (geometry.lng + geoScreenPixel.lng * offset.left * 2) +
+                (geometry.lng + geoScreenPixel.lng * offset.right)
+              ) / 2
+            );
+
+            this.map.setCenter(center, true);
           });
         });
         this.mapObjects.push({ name: selectedMarker, objects: reader.getParsedObjects()[0].getObjects() });
@@ -129,6 +141,51 @@ export class MapService {
     reader.addEventListener("statechange", geoListener);
     reader.parse();
     console.log("parseData", new Date().getTime() - start);
+  }
+
+  offsetCenter(geometry: { lat: number, lng: number }, offset: { lat: number, lng: number }) {
+    var start = new Date().getTime();
+    var geoScreenPercent = this.getGeoScreenPercent();
+
+    console.log("offsetCenter", new Date().getTime() - start);
+    return new H.geo.Point(
+      geometry.lat - geoScreenPercent.lat * offset.lat,
+      geometry.lng - geoScreenPercent.lng * offset.lng
+    );
+  }
+
+  createBubble(geometry: { lat: number, lng: number }, content: string | Node) {
+    return new H.ui.InfoBubble(geometry, { content: content });
+  }
+
+  removeBubbles = () => this.ui.getBubbles().forEach(bubble => this.ui.removeBubble(bubble));
+
+  getGeoScreenPercent() {
+    var start = new Date().getTime();
+    var geoLow = this.map.screenToGeo(0, 0);
+    var geoHigh = this.map.screenToGeo(window.innerWidth / 100, window.innerHeight / 100);
+    console.log("getGeoScreenPercent", new Date().getTime() - start);
+    return { lat: geoHigh.lat - geoLow.lat, lng: geoHigh.lng - geoLow.lng };
+  }
+
+  getGeoScreenPixel() {
+    var start = new Date().getTime();
+    var geoLow = this.map.screenToGeo(0, 0);
+    var geoHigh = this.map.screenToGeo(window.innerWidth, window.innerHeight);
+    console.log("getGeoScreenPixel", new Date().getTime() - start);
+    return { lat: (geoHigh.lat - geoLow.lat) / 1000, lng: (geoHigh.lng - geoLow.lng) / 1000 };
+  }
+
+  geoToMetric(start: { lat: number, lng: number }, end: { lat: number, lng: number }) {
+    var R = 6378.137;
+    var dLat = end.lat * Math.PI / 180 - start.lat * Math.PI / 180;
+    var dLon = end.lng * Math.PI / 180 - start.lng * Math.PI / 180;
+    var a = Math.sin(dLat / 2) * Math.sin(dLat / 2) +
+      Math.cos(start.lat * Math.PI / 180) * Math.cos(end.lat * Math.PI / 180) *
+      Math.sin(dLon / 2) * Math.sin(dLon / 2);
+    var c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
+    var d = R * c;
+    return d * 1000;
   }
 
   infoToHTML(marker, info): string {
@@ -142,15 +199,20 @@ export class MapService {
     }
 
     if (info.parking_spaces) {
-      html += "<span style=\"color:#444444\">";
-      info.parking_spaces.forEach(parking_spaces => html += parking_spaces + ": " + marker.data[parking_spaces] + "<br>");
+      html += "<span style=\"color:#444444\"><b>" + info.parking_spaces[0] + ": " + marker.data[info.parking_spaces[0]] + "</b><br>";
+      if (info.parking_spaces.length > 1) {
+        html += "</span><span style=\"color:#666666\">";
+        info.parking_spaces.forEach((parking_spaces, i) => {
+          if (i > 0) html += parking_spaces + ": " + marker.data[parking_spaces] + "<br>";
+        });
+      }
       html += "</span><br>";
     }
 
     if (info.misc) {
       html += "<span style=\"color:#333333\">";
       info.misc.forEach(misc => html += misc + ": " + marker.data[misc] + "<br>");
-      html = html.slice(0, html.length - 4) + "</span><br>";
+      html += "</span><br>";
     }
 
     if (info.links) {

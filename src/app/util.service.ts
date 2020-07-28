@@ -17,4 +17,22 @@ export class UtilService {
 
     return res;
   }
+
+  /**
+   * Waits a given amount of milliseconds.
+   * @param ms The milliseconds to wait.
+   */
+  sleep(ms: number) {
+    return new Promise(res => {
+      setTimeout(res, ms);
+    });
+  }
+
+  waitForChange(oldValue: any, getNewValue: () => any, cb: (newValue: any) => void, interval = 50) {
+    if (oldValue === getNewValue()) {
+      setTimeout(this.waitForChange, interval);
+    } else {
+      cb(getNewValue());
+    }
+  }
 }
