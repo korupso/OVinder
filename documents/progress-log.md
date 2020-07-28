@@ -193,4 +193,19 @@
 > I created an icon for mixed parking between motorbike and bycicle.  
 > There is now info in the info bubbles of the markers, but it's poorly formatted as of now.  
 >> Here is the new icon  
->> ![Icon for mixed parking between motorbike and bycicle](images/progress/markers/icons/parking_two-wheelers.png)
+>> ![Icon for mixed parking between motorbike and bycicle](images/progress/markers/icons/parking_two-wheelers.png)  
+---  
+---  
+> ## 28.07.2020  
+> ### 12:05  
+> I did not really make a lot of progress today.  
+> The code I had to write was quite fiddly and the whole program stopped functioning, because of tiny mistakes.  
+>   
+> ---  
+> ### 16:45  
+> I somewhat managed to do what I wanted to do today.  
+> I would've loved, if more progress was possible, but for now it's only info bubbles.  
+> Sadly, there isn't a lot I was able to screenshot today, since progress was limited.  
+> Nevertheless the info bubbles are kind of done.  
+>> Here is a screenshot of an info bubble  
+>> ![Screenshot of the info bubble, that appears for the Globus Parkhaus](images/progress/markers/info-bubbles/info-bubble_v1.png)

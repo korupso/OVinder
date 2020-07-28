@@ -56,4 +56,7 @@ I spent my break in the shower and in the train, since I had an important appoin
 I did not forget my break, due to my alarm reminding me.  
   
 ## 27.07.2020  
-I made a short lunch break today, since I wanted to continue working on the program.
+I made a short lunch break today, since I wanted to continue working on the program.  
+  
+## 28.07.2020  
+I did not spend a lot of time on my break today, since it was raining and as soon as I got back into my room, I started working again.

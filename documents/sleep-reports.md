@@ -109,4 +109,9 @@
 > ### 5/5  
 > Despite not feeling well yesterday, I fell asleep quite quickly.  
 > I also did not really have any problems waking up today.  
-> I even went to the trainstation a little too early, but that's not really an issue I guess.
+> I even went to the trainstation a little too early, but that's not really an issue I guess.  
+  
+> ## 28.07.2020  
+> ### 4.5/5  
+> It was rather late, when I fell asleep yesterday.  
+> But I woke up pretty easily today and was able to really focus on work this morning.

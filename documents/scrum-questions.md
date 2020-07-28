@@ -260,4 +260,21 @@ This may as well take the whole day, but if there is time left, I'll try to star
   
 **What hinders my progress?**  
 Nothing at the moment.  
-Everything is working as intended.
+Everything is working as intended.  
+  
+---  
+## 28.07.2020  
+**What did I do today?**  
+I formatted the info bubbles and changed the text inside of them into human language.  
+I did not think, that it would actually take me the whole day to do this, but it shows in today's commit, that the solution was not as straight forward as one might have expected.  
+  
+**What will I do tomorrow?**  
+I will try to add the routing to the info bubbles.  
+I may also test out, how the app looks on different screens dimensions.  
+It will surely not take as long as what I've done today.  
+  
+**What hinders my progress?**  
+The subhuman documentation of the HERE Maps Javascript API.  
+I don't believe a single thought has gone into writing this documentation.  
+Most functions and events only have a single sentence explaining what it does, while others sometimes don't even have an explanation.  
+There are also quite a lot of features I feel like is missing from the API.
