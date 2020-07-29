@@ -208,4 +208,11 @@
 > Sadly, there isn't a lot I was able to screenshot today, since progress was limited.  
 > Nevertheless the info bubbles are kind of done.  
 >> Here is a screenshot of an info bubble  
->> ![Screenshot of the info bubble, that appears for the Globus Parkhaus](images/progress/markers/info-bubbles/info-bubble_v1.png)
+>> ![Screenshot of the info bubble, that appears for the Globus Parkhaus](images/progress/markers/info-bubbles/info-bubble_v1.png)  
+---  
+---  
+> ## 29.07.2020  
+> ### 12:45  
+> I did not really accomplish much yet.  
+> This morning mostly consisted of reading the guide on routing for the HERE Maps API and trying to implement it.  
+> I did all the configuration and I'll test it for the first time after lunch.

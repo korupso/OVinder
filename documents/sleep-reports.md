@@ -114,4 +114,10 @@
 > ## 28.07.2020  
 > ### 4.5/5  
 > It was rather late, when I fell asleep yesterday.  
-> But I woke up pretty easily today and was able to really focus on work this morning.
+> But I woke up pretty easily today and was able to really focus on work this morning.  
+  
+> ## 29.07.2020  
+> ### 3/5  
+> It was not very pleasant to wake up today, since I couldn't fall asleep yesterday night.  
+> I took my melatonin, but it did not make me tired for some reason.  
+> I hope today will be better.
