@@ -1,12 +1,16 @@
 import { Injectable, ElementRef } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
-import { Router } from '@angular/router';
 
 import { UtilService } from './util.service';
 
 import markers from './markers.json';
 
 declare var H: any;
+
+type Coords = {
+  lat: number;
+  lng: number;
+};
 
 @Injectable({
   providedIn: 'root'
@@ -16,11 +20,27 @@ export class MapService {
   map: any;
   mapElement: ElementRef;
   mapStyle: any;
-  mapObjects: { name: string, objects: any[] }[] = [];
+  mapObjects: {
+    name: string,
+    objects: any[]
+  }[] = [];
+
+  userCoords: Coords;
+
+  inProgress: {
+    fetchCoords: boolean
+  } = {
+      fetchCoords: false
+    };
+
+  router: any;
 
   ui: any;
 
-  layers: { id: string, color: string }[] = [];
+  layers: {
+    id: string,
+    color: string
+  }[] = [];
 
   platform = new H.service.Platform({
     "apiKey": "wMf9ma7exbMTZgkYuj1alATsY2ae9fYC5dq9S2JeM04",
@@ -32,23 +52,40 @@ export class MapService {
     "parking_garage"
   ];
 
-  constructor(private U: UtilService, private http: HttpClient, private router: Router) { }
+  constructor(private U: UtilService, private http: HttpClient) { }
 
   /**
    * This function is called, whenever the map needs a reset.
    */
   resetMap() {
     var start = new Date().getTime();
-    this.fetchCoords((lat, lng) => {
+    this.fetchCoords((coords) => {
+      this.userCoords = coords;
       let defaultLayers = this.platform.createDefaultLayers();
       this.map = new H.Map(
         this.mapElement.nativeElement,
         defaultLayers.vector.normal.map,
         {
           zoom: 17,
-          center: { lat: lat, lng: lng }
+          center: { lat: coords.lat, lng: coords.lng }
         }
       );
+
+      var c = 5;
+      var coordFetcher = setInterval(() => {
+        if (!this.inProgress.fetchCoords) {
+          this.inProgress.fetchCoords = true;
+          this.fetchCoords(coords => {
+            this.inProgress.fetchCoords = false;
+            console.log("userCoords:", this.userCoords, "coords:", coords, "compare:", this.userCoords !== coords);
+            if (this.userCoords.lat !== coords.lat || this.userCoords.lng !== coords.lng) {
+              this.userCoords = { lat: coords.lat, lng: coords.lng };
+              c--;
+            }
+            if (c <= 0) clearInterval(coordFetcher);
+          });
+        }
+      }, 2000);
 
       var mapViewListener = mapEvent => {
         if (this.map.getZoom() >= 16) {
@@ -67,6 +104,7 @@ export class MapService {
       };
       this.map.addEventListener("mapviewchangeend", mapListener);
       this.ui = H.ui.UI.createDefault(this.map, defaultLayers);
+      this.router = this.platform.getRoutingService({}, 8);
       var mapEvents = new H.mapevents.MapEvents(this.map);
       var behavior = new H.mapevents.Behavior(mapEvents);
 
@@ -82,6 +120,58 @@ export class MapService {
       this.mapStyle.addEventListener('change', changeListener);
     });
     console.log("resetMap", new Date().getTime() - start);
+  }
+
+  route(origin: Coords, dest: Coords) {
+    var start = new Date().getTime();
+
+    var routeRequestParams = {
+      transportMode: "car",
+      origin: origin.lat + "," + origin.lng,
+      destination: dest.lat + "," + dest.lng,
+      routingMode: "fast",
+      alternatives: 2,
+      lang: "ch-DE",
+      return: [
+        "polyline",
+        "actions",
+        "instructions",
+        "summary",
+        "travelSummary",
+        "turnByTurnActions",
+        "elevation",
+        "routeHandle",
+        "incidents"
+      ],
+      spans: [
+        "walkAttributes",
+        "streetAttributes",
+        "carAttributes",
+        "truckAttributes",
+        "names",
+        "length",
+        "duration",
+        "baseDuration",
+        "countryCode",
+        "functionalClass",
+        "routeNumbers",
+        "speedLimit",
+        "dynamicSpeedInfo",
+        "segmentId",
+        "consumption"
+      ]
+    };
+
+    this.router.calculateRoute(routeRequestParams,
+      route => {
+        console.log(route);
+      },
+      err => {
+        console.log(err);
+      }
+    );
+
+    console.log("route", new Date().getTime() - start);
   }
 
   /**
@@ -116,22 +206,16 @@ export class MapService {
 
             this.ui.addBubble(bubble);
 
-            var offset: DOMRect = bubble.getElement().firstElementChild.getBoundingClientRect();
-            var geoScreenPixel = this.getGeoScreenPixel();
-            var geometry = object.getGeometry();
+            /*var o: DOMRect = bubble.getElement().firstElementChild.getBoundingClientRect();
+            var gSP = this.getGeoScreenPixel();*/
+            var g = object.getGeometry();
 
-            var center = new H.geo.Point(
-              (
-                (geometry.lat + geoScreenPixel.lat * offset.top) +
-                (geometry.lat + geoScreenPixel.lat * offset.bottom)
-              ) / 2,
-              (
-                (geometry.lng + geoScreenPixel.lng * offset.left * 2) +
-                (geometry.lng + geoScreenPixel.lng * offset.right)
-              ) / 2
-            );
+            this.route({ lat: g.lat, lng: g.lng }, { lat: g.lat, lng: g.lng });
 
-            this.map.setCenter(center, true);
+            /*this.map.setCenter(new H.geo.Point(
+              (g.lat + gSP.lat * o.top + g.lat + gSP.lat * o.bottom) / 2,
+              (g.lng + gSP.lng * o.left * 2 + g.lng + gSP.lng * o.right) / 2
+            ), true);*/
           });
         });
         this.mapObjects.push({ name: selectedMarker, objects: reader.getParsedObjects()[0].getObjects() });
@@ -143,7 +227,7 @@ export class MapService {
     console.log("parseData", new Date().getTime() - start);
   }
 
-  offsetCenter(geometry: { lat: number, lng: number }, offset: { lat: number, lng: number }) {
+  offsetCenter(geometry: Coords, offset: Coords) {
     var start = new Date().getTime();
     var geoScreenPercent = this.getGeoScreenPercent();
 
@@ -154,7 +238,7 @@ export class MapService {
     );
   }
 
-  createBubble(geometry: { lat: number, lng: number }, content: string | Node) {
+  createBubble(geometry: Coords, content: string | Node) {
     return new H.ui.InfoBubble(geometry, { content: content });
   }
 
@@ -176,7 +260,7 @@ export class MapService {
     return { lat: (geoHigh.lat - geoLow.lat) / 1000, lng: (geoHigh.lng - geoLow.lng) / 1000 };
   }
 
-  geoToMetric(start: { lat: number, lng: number }, end: { lat: number, lng: number }) {
+  geoToMetric(start: Coords, end: Coords) {
     var R = 6378.137;
     var dLat = end.lat * Math.PI / 180 - start.lat * Math.PI / 180;
     var dLon = end.lng * Math.PI / 180 - start.lng * Math.PI / 180;
@@ -239,15 +323,18 @@ export class MapService {
    * Get the user's coordinates, using the gps permission.
    * @param cb Callback function to return the coordinates asynchronously.
    */
-  fetchCoords(cb: (lat: number, lng: number) => void) {
+  fetchCoords(cb: (coords: Coords) => void) {
     var start = new Date().getTime();
     if (navigator.geolocation) navigator.geolocation.getCurrentPosition(
       (position: Position) => {
-        cb(47.37666, 8.5389);
-        // cb(position.coords.latitude, position.coords.longitude);
+        // cb({ lat: 47.37666, lng: 8.5389 });
+        cb({
+          lat: position.coords.latitude,
+          lng: position.coords.longitude
+        });
       },
       (error: PositionError) => console.log(error),
-      { timeout: 30000, enableHighAccuracy: true, maximumAge: 75000 }
+      { timeout: 30000, enableHighAccuracy: true, maximumAge: 500 }
     );
     console.log("fetchCoords", new Date().getTime() - start);
   }
