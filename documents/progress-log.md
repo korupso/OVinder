@@ -215,4 +215,10 @@
 > ### 12:45  
 > I did not really accomplish much yet.  
 > This morning mostly consisted of reading the guide on routing for the HERE Maps API and trying to implement it.  
-> I did all the configuration and I'll test it for the first time after lunch.
+> I did all the configuration and I'll test it for the first time after lunch.  
+>   
+> ---  
+> ### 17:15  
+> I did not manage to do what I had planned today.  
+> My laptop crashed multiple times, since the native update function updates much too often.  
+> I may create a demo project just to try this functionality out, since it takes ages to compile and crashed aren't a very fast error as well.

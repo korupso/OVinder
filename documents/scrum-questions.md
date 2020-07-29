@@ -277,4 +277,19 @@ It will surely not take as long as what I've done today.
 The subhuman documentation of the HERE Maps Javascript API.  
 I don't believe a single thought has gone into writing this documentation.  
 Most functions and events only have a single sentence explaining what it does, while others sometimes don't even have an explanation.  
-There are also quite a lot of features I feel like is missing from the API.
+There are also quite a lot of features I feel like is missing from the API.  
+  
+---  
+## 29.07.2020  
+**What did I do today?**  
+I tried to make the gps coordinates of the user updatable in a sensible way, but it sadly did not work.  
+I googled my problem a few times, but I didn't find a suitable answer.  
+  
+**What will I do tomorrow?**  
+I'm probably going to create a demo project and fiddle around with the coordinates function until it works like I want it to.  
+This may as well take the whole day, since I didn't manage to find a good solution today.  
+If there is any time left, I'll try to add the routing feature.  
+  
+**What hinders my progress?**  
+My problems today mostly constisted of crashes, which is something I can not do a lot against.  
+I hope this will stabilize from now on.
