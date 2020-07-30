@@ -35,4 +35,6 @@ export class UtilService {
       cb(getNewValue());
     }
   }
+
+  deepCompare = (obj: any, comp: any): boolean => JSON.stringify(obj).toLowerCase() === JSON.stringify(comp).toLowerCase();
 }

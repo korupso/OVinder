@@ -17,6 +17,8 @@ type Coords = {
 })
 export class MapService {
 
+  // cb({ lat: 47.37666, lng: 8.5389 });
+
   map: any;
   mapElement: ElementRef;
   mapStyle: any;
@@ -26,12 +28,6 @@ export class MapService {
   }[] = [];
 
   userCoords: Coords;
-
-  inProgress: {
-    fetchCoords: boolean
-  } = {
-      fetchCoords: false
-    };
 
   router: any;
 
@@ -59,7 +55,7 @@ export class MapService {
    */
   resetMap() {
     var start = new Date().getTime();
-    this.fetchCoords((coords) => {
+    this.fetchCoords(coords => {
       this.userCoords = coords;
       let defaultLayers = this.platform.createDefaultLayers();
       this.map = new H.Map(
@@ -71,21 +67,13 @@ export class MapService {
         }
       );
 
-      var c = 5;
-      var coordFetcher = setInterval(() => {
-        if (!this.inProgress.fetchCoords) {
-          this.inProgress.fetchCoords = true;
-          this.fetchCoords(coords => {
-            this.inProgress.fetchCoords = false;
-            console.log("userCoords:", this.userCoords, "coords:", coords, "compare:", this.userCoords !== coords);
-            if (this.userCoords.lat !== coords.lat || this.userCoords.lng !== coords.lng) {
-              this.userCoords = { lat: coords.lat, lng: coords.lng };
-              c--;
-            }
-            if (c <= 0) clearInterval(coordFetcher);
-          });
+      this.fetchCoords(coords => {
+        console.log("fetched");
+        if (this.U.deepCompare(this.userCoords, coords)) {
+          this.userCoords = { ...coords };
+          console.log(this.userCoords);
         }
-      }, 2000);
+      });
 
       var mapViewListener = mapEvent => {
         if (this.map.getZoom() >= 16) {
@@ -323,19 +311,16 @@ export class MapService {
    * Get the user's coordinates, using the gps permission.
    * @param cb Callback function to return the coordinates asynchronously.
    */
-  fetchCoords(cb: (coords: Coords) => void) {
+  fetchCoords(cb: (coords: Coords) => void, watch = false) {
     var start = new Date().getTime();
-    if (navigator.geolocation) navigator.geolocation.getCurrentPosition(
-      (position: Position) => {
-        // cb({ lat: 47.37666, lng: 8.5389 });
-        cb({
-          lat: position.coords.latitude,
-          lng: position.coords.longitude
-        });
-      },
-      (error: PositionError) => console.log(error),
-      { timeout: 30000, enableHighAccuracy: true, maximumAge: 500 }
-    );
+    if (navigator.geolocation) if (watch) navigator.geolocation.watchPosition(pos => cb({
+      lat: pos.coords.latitude,
+      lng: pos.coords.longitude
+    }));
+    else navigator.geolocation.getCurrentPosition(pos => cb({
+      lat: pos.coords.latitude,
+      lng: pos.coords.longitude
+    }));
     console.log("fetchCoords", new Date().getTime() - start);
   }
 

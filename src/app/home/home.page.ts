@@ -14,10 +14,4 @@ export class HomePage implements OnInit {
   public ngOnInit() {
     console.log(new Date().toLocaleTimeString("ch"));
   }
-
-  @HostListener("window:resize", ["$event"])
-  public onResize(event?) {
-    console.log(event);
-    this.mapService.resetMap();
-  }
 }
