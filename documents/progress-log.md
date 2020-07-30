@@ -221,4 +221,19 @@
 > ### 17:15  
 > I did not manage to do what I had planned today.  
 > My laptop crashed multiple times, since the native update function updates much too often.  
-> I may create a demo project just to try this functionality out, since it takes ages to compile and crashed aren't a very fast error as well.
+> I may create a demo project just to try this functionality out, since it takes ages to compile and crashed aren't a very fast error as well.  
+---  
+---  
+> ## 30.07.2020  
+> ### 12:45  
+> I managed to fix the gps problem I had yesterday, but I then saw a new problem emerge, which I'll have to tackle after lunch.  
+>   
+> ---  
+> ### 17:30  
+> I wanted to test out my app on an android emulator, since I can't really test out gps on my laptop.  
+> When I start the emulator, it always gives me an error I fully understand (but it would take too long to explain here), but I can't fix.  
+> There is basically two quote symbols missing on the path of the executable, but I was not able to find, where the configuration for that is located.  
+> I spent the whole rest of the day, just trying to insert two little symbols, but it didn't work.  
+> Has been a while, since a day was this frustrating.  
+>> Here is an screenshot of the error  
+>> ![Screenshot of the error, that pops up, whenever I start the emulator](images/errors/emulator_not_starting.png)

@@ -292,4 +292,16 @@ If there is any time left, I'll try to add the routing feature.
   
 **What hinders my progress?**  
 My problems today mostly constisted of crashes, which is something I can not do a lot against.  
-I hope this will stabilize from now on.
+I hope this will stabilize from now on.  
+  
+---  
+## 30.07.2020  
+**What did I do today?**  
+I spent all day, trying to make the emulator work without any success.  
+  
+**What will I do tomorrow?**  
+I kind of have to continue trying to fix that problem, since I can't test my app without it.  
+Maybe a clearer mind after a good night's sleep helps.  
+  
+**What hinders my progress?**  
+I think I've said enough things about the error from today.

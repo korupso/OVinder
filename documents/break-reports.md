@@ -63,4 +63,7 @@ I did not spend a lot of time on my break today, since it was raining and as soo
   
 ## 29.07.2020  
 I made a rather short break today, since I did not really have anything to do during it.  
-Breaks feel more like a chore, when you're not hungry.
+Breaks feel more like a chore, when you're not hungry.  
+  
+## 30.07.2020  
+I made a short break and ate some lunch.

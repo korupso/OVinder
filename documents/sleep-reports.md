@@ -120,4 +120,8 @@
 > ### 3/5  
 > It was not very pleasant to wake up today, since I couldn't fall asleep yesterday night.  
 > I took my melatonin, but it did not make me tired for some reason.  
-> I hope today will be better.
+> I hope today will be better.  
+  
+> ## 30.07.2020  
+> ### 1/5  
+> I was not able to sleep early yesterday and my mum did not give me the right dosis this morning, which made it extremely uncomfortable to exist before lunch break.
