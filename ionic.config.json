@@ -1,6 +1,8 @@
 {
   "name": "ÖVinder",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular",
   "id": "d85e7ce1"
 }
