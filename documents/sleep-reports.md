@@ -124,4 +124,9 @@
   
 > ## 30.07.2020  
 > ### 1/5  
-> I was not able to sleep early yesterday and my mum did not give me the right dosis this morning, which made it extremely uncomfortable to exist before lunch break.
+> I was not able to sleep early yesterday and my mum did not give me the right dosis this morning, which made it extremely uncomfortable to exist before lunch break.  
+  
+> ## 31.07.2020  
+> ### 1/5  
+> I'm not quite sure what the reason was today, but I sure hope this will better again.  
+> I'll change my alarm tone and possibly try to take a higher dosage of Elvanse on Monday.

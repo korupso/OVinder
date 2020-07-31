@@ -66,4 +66,7 @@ I made a rather short break today, since I did not really have anything to do du
 Breaks feel more like a chore, when you're not hungry.  
   
 ## 30.07.2020  
-I made a short break and ate some lunch.
+I made a short break and ate some lunch.  
+  
+## 31.07.2020  
+I forgot to do a break today, which is also why I forgot to push the progress log until now.

@@ -236,4 +236,22 @@
 > I spent the whole rest of the day, just trying to insert two little symbols, but it didn't work.  
 > Has been a while, since a day was this frustrating.  
 >> Here is an screenshot of the error  
->> ![Screenshot of the error, that pops up, whenever I start the emulator](images/errors/emulator_not_starting.png)
+>> ![Screenshot of the error, that pops up, whenever I start the emulator](images/errors/emulator_not_starting.png)  
+---  
+---  
+> ## 31.07.2020  
+> ### 11:45  
+> I did not really make any progress today until now.  
+> I mostly reinstalled the emulator and the AVD (android virtual device), which took quite a long time.  
+>   
+> ---  
+> ### 17:05  
+> I was able to start the emulator and install the app on it.  
+> Sadly the app doesn't really seem to work at the moment.  
+> The screen on the emulator is just white and I can't seem to figure out why.  
+> I recieved multiple bluescreens on top of that as well, which made work today rather unpleasant.  
+>> Here is a screenshot of the emulator working  
+>> ![Screenshot of the emulator working](images/progress/emulator_working.png)  
+>   
+>> Here is a screenshot of the app running on the emulator  
+>> ![White screen appearing after starting the app on the emulator](images/errors/blank_screen.png)

@@ -304,4 +304,18 @@ I kind of have to continue trying to fix that problem, since I can't test my app
 Maybe a clearer mind after a good night's sleep helps.  
   
 **What hinders my progress?**  
-I think I've said enough things about the error from today.
+I think I've said enough things about the error from today.  
+  
+---  
+## 31.07.2020  
+**What did I do today?**  
+I managed to fix the emulator, but the app doesn't work just now.  
+It took quite a long time until I managed to fix the emulator, which is also a reason why I haven't made much progress today.  
+  
+**What will I do after the weekend?**  
+The next step to testing the app would be to make the app work on the AVD.  
+I may try to create a small demo project to make sure it's the programm, that's not working and not the emulator.  
+  
+**What hinders my progress?**  
+It takes a very long time to setup a testing environment on an app, since the AVD is around 10GB in size and has to be reinstalled sometimes.  
+I also got a few bluescreens and other minor, but time-stealing bugs, that I had to fix.
