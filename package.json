@@ -26,6 +26,7 @@
     "angular-heremaps": "^0.1.9",
     "cordova": "^9.0.0",
     "cordova-android": "^8.1.0",
+    "gradle": "^1.2.3",
     "ionic-angular": "^3.9.10",
     "rxjs": "~6.5.1",
     "tslib": "^1.10.0",
