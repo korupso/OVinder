@@ -254,4 +254,18 @@
 >> ![Screenshot of the emulator working](images/progress/emulator_working.png)  
 >   
 >> Here is a screenshot of the app running on the emulator  
->> ![White screen appearing after starting the app on the emulator](images/errors/blank_screen.png)
+>> ![White screen appearing after starting the app on the emulator](images/errors/blank_screen.png)  
+---  
+---  
+> ## 03.08.2020  
+> ### 12:05  
+> I spent my morning on trying to make my app run on the emulator.  
+> A demo project worked and at the moment my task is to run my app stepwise to see where it breaks.  
+>> Here are some errors that happened  
+>> ![Screenshot of the emulator not being able to connect](images/errors/emulator/ERR_CONNECTION_REFUSED.png)  
+>> ![Screenshot of the emulator with an "Application Error" pop-up](images/errors/emulator/application_error.png)  
+>> ![Screenshot of the console with 119762 errors](images/errors/119762_errors.png)  
+>   
+>> Here is some progress  
+>> ![Screenshot of a demo project provided by the ionic team](images/progress/emulator/emulator_demo-project_working.png)  
+>> ![Screenshot of a demo project written by me](images/progress/emulator/hello_world.png)
