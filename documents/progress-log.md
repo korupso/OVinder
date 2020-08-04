@@ -236,7 +236,7 @@
 > I spent the whole rest of the day, just trying to insert two little symbols, but it didn't work.  
 > Has been a while, since a day was this frustrating.  
 >> Here is an screenshot of the error  
->> ![Screenshot of the error, that pops up, whenever I start the emulator](images/errors/emulator_not_starting.png)  
+>> ![Screenshot of the error, that pops up, whenever I start the emulator](images/errors/emulator/emulator_not_starting.png)  
 ---  
 ---  
 > ## 31.07.2020  
@@ -251,10 +251,10 @@
 > The screen on the emulator is just white and I can't seem to figure out why.  
 > I recieved multiple bluescreens on top of that as well, which made work today rather unpleasant.  
 >> Here is a screenshot of the emulator working  
->> ![Screenshot of the emulator working](images/progress/emulator_working.png)  
+>> ![Screenshot of the emulator working](images/progress/emulator/emulator_working.png)  
 >   
 >> Here is a screenshot of the app running on the emulator  
->> ![White screen appearing after starting the app on the emulator](images/errors/blank_screen.png)  
+>> ![White screen appearing after starting the app on the emulator](images/errors/emulator/blank_screen.png)  
 ---  
 ---  
 > ## 03.08.2020  
@@ -268,4 +268,16 @@
 >   
 >> Here is some progress  
 >> ![Screenshot of a demo project provided by the ionic team](images/progress/emulator/emulator_demo-project_working.png)  
->> ![Screenshot of a demo project written by me](images/progress/emulator/hello_world.png)
+>> ![Screenshot of a demo project written by me](images/progress/emulator/hello_world.png)  
+---  
+---  
+> ## 04.08.2020  
+> ### 12:20  
+> I created a new demo project containing the map and it actually worked!  
+> It took a little bit of fiddling with the code and I had to wait every now and then for installations.  
+> The demo project can't really be pushed to my normal project, which is why I made a demo repository.  
+>> Here is a screenshot of the emulator with the map almost working  
+>> ![Screenshot of the emulator with the map almost working](images/progress/emulator/almost_map.png)  
+>   
+>> And here's one with the map working  
+>> ![Screenshot of the emulator with the map working](images/progress/emulator/map_working.png)

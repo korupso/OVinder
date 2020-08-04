@@ -129,4 +129,12 @@
 > ## 31.07.2020  
 > ### 1/5  
 > I'm not quite sure what the reason was today, but I sure hope this will better again.  
-> I'll change my alarm tone and possibly try to take a higher dosage of Elvanse on Monday.
+> I'll change my alarm tone and possibly try to take a higher dosage of Elvanse on Monday.  
+  
+> ## 03.08.2020  
+> ### 4/5  
+> I woke up pretty nicely and was able to easily reach the train.  
+  
+> ## 04.08.2020  
+> ### 5/5  
+> I woke up without any problems and was at the train station a few minutes early.

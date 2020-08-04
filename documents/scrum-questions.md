@@ -318,4 +318,18 @@ I may try to create a small demo project to make sure it's the programm, that's 
   
 **What hinders my progress?**  
 It takes a very long time to setup a testing environment on an app, since the AVD is around 10GB in size and has to be reinstalled sometimes.  
-I also got a few bluescreens and other minor, but time-stealing bugs, that I had to fix.
+I also got a few bluescreens and other minor, but time-stealing bugs, that I had to fix.  
+  
+---  
+## 03.08.2020  
+**What did I do today?**  
+I made a demo project today and managed to make it work on the emulator.  
+Sadly the demo project broke, but I learned a lot on how to make apps work on the emulator.  
+  
+**What will I do tomorrow?**  
+I will create a new demo project, with my app's functionality.  
+Adding the functionality step by step, to make sure everything works individually and to find errors more easily.  
+  
+**What hinders my progress?**  
+Nothing at the moment.  
+As long as it continues working like it was today, it should be a walk in the park. (famous last words)

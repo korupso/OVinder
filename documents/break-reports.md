@@ -69,4 +69,7 @@ Breaks feel more like a chore, when you're not hungry.
 I made a short break and ate some lunch.  
   
 ## 31.07.2020  
-I forgot to do a break today, which is also why I forgot to push the progress log until now.
+I forgot to do a break today, which is also why I forgot to push the progress log until now.  
+  
+## 03.08.2020  
+I made a nice break today and had some lunch with my girlfriend and a friend of mine.
