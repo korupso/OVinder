@@ -332,4 +332,18 @@ Adding the functionality step by step, to make sure everything works individuall
   
 **What hinders my progress?**  
 Nothing at the moment.  
-As long as it continues working like it was today, it should be a walk in the park. (famous last words)
+As long as it continues working like it was today, it should be a walk in the park. (famous last words)  
+  
+---  
+## 04.08.2020  
+**What did I do today?**  
+I created a new demo project and added the map.  
+It almost works as well as the browser version, but it still has some flaws.  
+  
+**What will I do tomorrow?**  
+I'll try to make the GPS work, in order to start with the routing.  
+If I still have time somehow, I'll start adding the routing to the info bubbles.  
+  
+**What hinders my progress?**   
+The GPS-functions from the API don't work for some reason, which is why I don't make any progress regarding routing.  
+I hope this will fix itself somehow, but that wont happen.

@@ -280,4 +280,10 @@
 >> ![Screenshot of the emulator with the map almost working](images/progress/emulator/almost_map.png)  
 >   
 >> And here's one with the map working  
->> ![Screenshot of the emulator with the map working](images/progress/emulator/map_working.png)
+>> ![Screenshot of the emulator with the map working](images/progress/emulator/map_working.png)  
+>   
+> ---  
+> ### 17:20  
+> I've tried the HERE Geolocation API, but it did not really work on a mobile device.  
+> After that, I tried using the ionic-native geolocation plug-in, but it also did not work.  
+> I started to try to use the navigator service for my gps functionalities, but I did not get a result yet.
