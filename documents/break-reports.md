@@ -75,4 +75,10 @@ I forgot to do a break today, which is also why I forgot to push the progress lo
 I made a nice break today and had some lunch with my girlfriend and a friend of mine.  
   
 ## 04.08.2020  
-Today I ate lasagna with my girlfriend and a friend of mine, but it was not at the correct break time.
+Today I ate lasagna with my girlfriend and a friend of mine, but it was not at the correct break time.  
+  
+## 05.08.2020  
+I made a nice break today, cooling myself off, since it's very hot where I work.  
+  
+## 06.08.2020  
+I spent my break in front of my vent.

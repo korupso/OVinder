@@ -137,4 +137,13 @@
   
 > ## 04.08.2020  
 > ### 5/5  
-> I woke up without any problems and was at the train station a few minutes early.
+> I woke up without any problems and was at the train station a few minutes early.  
+  
+> ## 05.08.2020  
+> ### 1/5  
+> I was barely able to function this morning, which made making progress pretty hard.  
+  
+> ## 06.08.2020  
+> ### 3/5  
+> Today was also a bit difficult, but I still managed to work on time.  
+> This was probably the heat.

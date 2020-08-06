@@ -346,4 +346,17 @@ If I still have time somehow, I'll start adding the routing to the info bubbles.
   
 **What hinders my progress?**   
 The GPS-functions from the API don't work for some reason, which is why I don't make any progress regarding routing.  
-I hope this will fix itself somehow, but that wont happen.
+I hope this will fix itself somehow, but that wont happen.  
+  
+---  
+## 05.08.2020  
+**What did I do today?**  
+I did not really make any progress.  
+I tried to make the gps work, but it's not quite there yet.  
+It still crashes and I don't really have a good lead to why it does.  
+  
+**What will I do tomorrow?**  
+I will try to make the gps work.  
+  
+**What hinders my progress?**  
+I can't figure out what the error is, which makes it pretty difficult to fix.
