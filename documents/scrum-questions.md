@@ -372,4 +372,16 @@ I think this might take me the whole day.
   
 **What hinders my progress?**  
 Compilation is a big hurdle.  
-It makes development a long and boring process.
+It makes development a long and boring process.  
+  
+---  
+## 07.08.2020  
+**What did I do today?**  
+I added a demo side menu to the project and configured the styling of the button.  
+I also fixed my project in the morning, since it didn't want to start up.  
+  
+**What will I do after the weekend?**  
+I'm not quite sure, if I even have the time to work on this project on Monday, since it's my first day at Noser Young again.  
+  
+**What hinders my progress?**  
+The styling for the button is pretty difficult for me, since I'm not very familiar with SCSS, which is the style sheet for the project.

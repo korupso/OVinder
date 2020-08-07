@@ -311,4 +311,13 @@
 > ## 07.08.2020  
 > ### 13:40  
 > I made my old project work again, since I accidentally broke it a bit by testing it on the emulator.  
-> But I'll try to add the side menu after lunch.
+> But I'll try to add the side menu after lunch.  
+>   
+> ---  
+> ### 17:30  
+> I added a demo side menu and styled the button.  
+>> Here is a screenshot of the button  
+>> ![Screenshot of side menu button](images/progress/side-menu/demo_button.png)  
+>>   
+>> And here a screenshot of the menu itself  
+>> ![Screenshot of the side menu open](images/progress/side-menu/demo_open.png)
