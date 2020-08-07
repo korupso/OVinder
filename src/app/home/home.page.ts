@@ -1,6 +1,10 @@
-import { Component, OnInit, HostListener } from '@angular/core';
+import { Component, OnInit } from '@angular/core';
+
+import { MenuController } from '@ionic/angular';
+
 import { MapService } from '../map.service';
 import { UtilService } from '../util.service';
+import { partition } from 'rxjs';
 
 @Component({
   selector: 'app-home',
@@ -9,9 +13,13 @@ import { UtilService } from '../util.service';
 })
 export class HomePage implements OnInit {
 
-  constructor(private mapService: MapService, private U: UtilService) { }
+  constructor(private mapService: MapService, private U: UtilService, private menu: MenuController) { }
 
   public ngOnInit() {
     console.log(new Date().toLocaleTimeString("ch"));
+
+    this.menu.enable(true, "settings");
+
+    console.log(document.getElementById("menuButton").shadowRoot);
   }
 }

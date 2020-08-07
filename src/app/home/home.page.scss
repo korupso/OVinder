@@ -25,3 +25,27 @@
 #container a {
   text-decoration: none;
 }
+
+.menu {
+  --width: 500px;
+}
+
+ion-menu-button {
+  --background: #ffffff;
+  --border-radius: 25%;
+
+  position: absolute;
+  left: 1rem;
+  top: 1rem;
+}
+
+ion-menu-button::part(native) {
+  border-width: 0.15rem;
+  border-color: #888888;
+  border-style: solid;
+}
+
+ion-menu-button::part(icon):host {
+  width: 2.4rem;
+  height: 2.4rem;
+}
