@@ -359,4 +359,17 @@ It still crashes and I don't really have a good lead to why it does.
 I will try to make the gps work.  
   
 **What hinders my progress?**  
-I can't figure out what the error is, which makes it pretty difficult to fix.
+I can't figure out what the error is, which makes it pretty difficult to fix.  
+  
+---  
+## 06.07.2020  
+**What did I do today?**  
+Again I did not really make any progress, which is why I'll make a little break from the gps stuff and work on the other parts of the app.  
+  
+**What will I do tomorrow?**  
+I'll try to add a side menu, possibly with some options already added.  
+I think this might take me the whole day.  
+  
+**What hinders my progress?**  
+Compilation is a big hurdle.  
+It makes development a long and boring process.

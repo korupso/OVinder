@@ -286,4 +286,29 @@
 > ### 17:20  
 > I've tried the HERE Geolocation API, but it did not really work on a mobile device.  
 > After that, I tried using the ionic-native geolocation plug-in, but it also did not work.  
-> I started to try to use the navigator service for my gps functionalities, but I did not get a result yet.
+> I started to try to use the navigator service for my gps functionalities, but I did not get a result yet.  
+---  
+---  
+> ## 05.08.2020  
+> ### 12:00  
+> I did not yet manage to make the gps work.  
+> It suddenly crashes, whenever I do anything with the gps in the app.  
+>   
+> ---  
+> ### 17:10  
+> The compilation time of the app takes way too long for me to productively and efficiently work on it.  
+> But there is nothing I can do, to improve the compile time.  
+> Which is why I'm still stuck at the gps.  
+---  
+---  
+> ## 06.08.2020  
+> ### 12:45  
+> It was very hard to make any progress this morning, since I was extremely tired.  
+> I tried a few combinations of event listeners today, which didn't really work and I'm not quite sure why.  
+> Event listeners activate whenever an event like ```deviceready``` gets fired.  
+---  
+---  
+> ## 07.08.2020  
+> ### 13:40  
+> I made my old project work again, since I accidentally broke it a bit by testing it on the emulator.  
+> But I'll try to add the side menu after lunch.

@@ -81,4 +81,7 @@ Today I ate lasagna with my girlfriend and a friend of mine, but it was not at t
 I made a nice break today, cooling myself off, since it's very hot where I work.  
   
 ## 06.08.2020  
-I spent my break in front of my vent.
+I spent my break in front of my vent.  
+  
+## 07.08.2020  
+A friend of mine came over for a lunch, which was pretty on-time.

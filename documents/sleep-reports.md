@@ -146,4 +146,9 @@
 > ## 06.08.2020  
 > ### 3/5  
 > Today was also a bit difficult, but I still managed to work on time.  
-> This was probably the heat.
+> This was probably the heat.  
+  
+> ## 07.08.2020  
+> ### 3/5  
+> Today was better than expected.  
+> I was able to wake up on my own, but it still wasn't that easy.
